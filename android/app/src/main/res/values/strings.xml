@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScrollApp</string>
+    <string name="canal_monitoreo_nombre">Acompañamiento en segundo plano</string>
+    <string name="canal_monitoreo_descripcion">Aviso discreto mientras ScrollApp te acompaña al abrir redes sociales.</string>
+    <string name="notificacion_monitoreo_titulo">ScrollApp te acompaña</string>
+    <string name="notificacion_monitoreo_texto">Estamos atentos por si abres una red social. Sin prisa.</string>
+    <string name="canal_recordatorios_nombre">Recordatorios</string>
+    <string name="canal_recordatorios_descripcion">El check-in de la noche y el aviso de tu revisión semanal.</string>
+    <string name="notificacion_checkin_titulo">¿Cómo te fue hoy?</string>
+    <string name="notificacion_checkin_texto">Un momento tranquilo para mirar tu día. Toma menos de un minuto.</string>
+</resources>
