@@ -26,6 +26,12 @@ export interface PaletaColores {
   aviso: string;
   avisoFondo: string;
   sombra: string;
+  /**
+   * Colores de los minijuegos (fase 5), tomados de la paleta: coral, salvia, ámbar y café.
+   * `simbolo` es el color de la figura que distingue cada color sin depender del tono
+   * (círculo, triángulo, cuadrado y rombo), para personas con daltonismo.
+   */
+  juego: { relleno: string; simbolo: string }[];
 }
 
 export const paletaClara: PaletaColores = {
@@ -46,6 +52,12 @@ export const paletaClara: PaletaColores = {
   aviso: '#A94D34',
   avisoFondo: '#FFE9E1',
   sombra: '#5A3F30',
+  juego: [
+    { relleno: '#C24B2E', simbolo: '#FFFFFF' },
+    { relleno: '#4F8F7C', simbolo: '#FFFFFF' },
+    { relleno: '#F2B36F', simbolo: '#3A2E28' },
+    { relleno: '#6E5F57', simbolo: '#FFFFFF' },
+  ],
 };
 
 export const paletaOscura: PaletaColores = {
@@ -66,4 +78,10 @@ export const paletaOscura: PaletaColores = {
   aviso: '#F2A48A',
   avisoFondo: '#4A3230',
   sombra: '#000000',
+  juego: [
+    { relleno: '#F4A585', simbolo: '#2A1A14' },
+    { relleno: '#8FCDB9', simbolo: '#1F2430' },
+    { relleno: '#F5C98A', simbolo: '#2A1A14' },
+    { relleno: '#C6BBB2', simbolo: '#1F2430' },
+  ],
 };

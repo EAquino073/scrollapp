@@ -8,3 +8,6 @@ export * from './IndicadorProgreso';
 export * from './MensajeCalido';
 export * from './RespiracionGuiada';
 export * from './EncabezadoOnboarding';
+export * from './AnimacionTranquila';
+export * from './TiempoDiscreto';
+export * from './Aparecer';

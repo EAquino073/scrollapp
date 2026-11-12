@@ -19,6 +19,8 @@ export interface HabitLogDoc {
   fecha: string;
   cumplido: boolean;
   timestamp: Timestamp;
+  /** Contenido guiado o minijuego mostrado (fase 5), o `null` en los hábitos propios. */
+  contenidoId: string | null;
 }
 
 export function habitoADoc(habito: ReplacementHabit): ReplacementHabitDoc {
@@ -52,6 +54,7 @@ export function habitLogADoc(log: HabitLog): HabitLogDoc {
     fecha: log.fecha,
     cumplido: log.cumplido,
     timestamp: Timestamp.fromDate(log.timestamp),
+    contenidoId: log.contenidoId,
   };
 }
 
@@ -63,5 +66,7 @@ export function docAHabitLog(logId: string, data: Partial<HabitLogDoc>): HabitLo
     fecha: data.fecha ?? '',
     cumplido: data.cumplido ?? false,
     timestamp: data.timestamp?.toDate() ?? new Date(),
+    // Los registros anteriores a la fase 5 no tienen el campo.
+    contenidoId: data.contenidoId ?? null,
   };
 }

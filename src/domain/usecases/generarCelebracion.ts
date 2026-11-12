@@ -60,3 +60,15 @@ export function generarMensajeNoCompletado(habito: HabitoCelebrado, redSocial: s
     texto: `Intentar ${habito.nombre.toLowerCase()} en vez de abrir ${redSocial} ya fue una pausa. Lo anotamos como parte del patrón, no como un fallo.`,
   };
 }
+
+/**
+ * Mensaje cuando se salta un minijuego (fase 5). Sin nada negativo: saltar también es
+ * una decisión válida, y el rato que se le dedicó ya fue una pausa.
+ */
+export function generarMensajeSalto(redSocial: string): Celebracion {
+  return {
+    icono: '🍃',
+    titulo: 'Lo dejamos aquí por hoy',
+    texto: `El rato que le dedicaste ya fue una pausa lejos de ${redSocial}. Otro día habrá otro reto, si te apetece.`,
+  };
+}

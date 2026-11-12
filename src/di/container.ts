@@ -1,4 +1,4 @@
-import { FRASES_PAUSA } from '../data/contenido';
+import { BancoContenidoLocal, FRASES_PAUSA } from '../data/contenido';
 import {
   AuthFirebaseRepository,
   EncuestaFirestoreRepository,
@@ -9,11 +9,18 @@ import {
   StatsFirestoreRepository,
   UsuarioFirestoreRepository,
 } from '../data/firestore';
-import type { MonitorDeUso, RecordatoriosLocales } from '../domain/repositories';
+import { RotacionAsyncStorageRepository } from '../data/local';
+import type {
+  BancoContenido,
+  MonitorDeUso,
+  RecordatoriosLocales,
+  RotacionRepository,
+} from '../domain/repositories';
 import {
   ActualizarModoIntensidad,
   ActualizarRedesMonitoreadas,
   AjustarMetaProgresiva,
+  AsignarContenidoGuiado,
   CalcularCheckInNocturno,
   CalcularLineaBase,
   CerrarSemanasPendientes,
@@ -57,6 +64,8 @@ const sessionRepository = new SesionFirestoreRepository();
 const surveyRepository = new EncuestaFirestoreRepository();
 const monitorDeUso: MonitorDeUso = UsageStats;
 const recordatoriosLocales: RecordatoriosLocales = Notificaciones;
+const bancoContenido: BancoContenido = new BancoContenidoLocal();
+const rotacionRepository: RotacionRepository = new RotacionAsyncStorageRepository();
 
 const registrarUsoAutomatico = new RegistrarUsoAutomatico(monitorDeUso, scrollRepository);
 const generarRevisionSemanal = new GenerarRevisionSemanal(
@@ -81,6 +90,8 @@ export const contenedor = {
     encuesta: surveyRepository,
     monitorDeUso,
     recordatorios: recordatoriosLocales,
+    bancoContenido,
+    rotacion: rotacionRepository,
   },
   casosDeUso: {
     // Sesión
@@ -105,6 +116,8 @@ export const contenedor = {
     sugerirHabitoSustituto: new SugerirHabitoSustituto(habitRepository),
     registrarDecisionFriccion: new RegistrarDecisionFriccion(scrollRepository, habitRepository),
     registrarCumplimientoHabito: new RegistrarCumplimientoHabito(habitRepository),
+    // Contenido guiado de las actividades predeterminadas (fase 5)
+    asignarContenidoGuiado: new AsignarContenidoGuiado(bancoContenido, rotacionRepository),
     generarMensajeFriccion: new GenerarMensajeFriccion(monitorDeUso, FRASES_PAUSA),
     // Check-in nocturno y registro automático
     registrarUsoAutomatico,

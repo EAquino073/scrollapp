@@ -1,0 +1,112 @@
+{
+  "tipoActividad": "RESPIRAR",
+  "descripcion": "Patrones guiados para la actividad «Respirar profundo» (2 minutos). Tiempos en segundos: inhalar, sostener (con aire), exhalar y pausa (sin aire). Un 0 omite la fase. La pantalla repite el ciclo hasta completar los dos minutos. «textos» es opcional y sustituye la indicación de cada fase.",
+  "elementos": [
+    {
+      "id": "respirar-001",
+      "nombre": "Respiración 4-7-8",
+      "descripcion": "Inhalas en cuatro, sostienes en siete y sueltas el aire en ocho. La exhalación larga marca el ritmo.",
+      "inhalar": 4, "sostener": 7, "exhalar": 8, "pausa": 0
+    },
+    {
+      "id": "respirar-002",
+      "nombre": "Respiración cuadrada",
+      "descripcion": "Cuatro tiempos para cada lado del cuadrado: inhalar, sostener, exhalar y quedarte un momento en calma.",
+      "inhalar": 4, "sostener": 4, "exhalar": 4, "pausa": 4
+    },
+    {
+      "id": "respirar-003",
+      "nombre": "Exhalación prolongada",
+      "descripcion": "Una sola regla: que el aire salga más despacio de lo que entra.",
+      "inhalar": 4, "sostener": 0, "exhalar": 6, "pausa": 0
+    },
+    {
+      "id": "respirar-004",
+      "nombre": "Cinco y cinco",
+      "descripcion": "El mismo tiempo para entrar y para salir. Un vaivén parejo, sin pausas.",
+      "inhalar": 5, "sostener": 0, "exhalar": 5, "pausa": 0
+    },
+    {
+      "id": "respirar-005",
+      "nombre": "Respiración en triángulo",
+      "descripcion": "Tres lados iguales: tomas aire, lo sostienes y lo sueltas, cada uno en cuatro tiempos.",
+      "inhalar": 4, "sostener": 4, "exhalar": 4, "pausa": 0
+    },
+    {
+      "id": "respirar-006",
+      "nombre": "Una pausa arriba",
+      "descripcion": "Inhalas, te quedas un instante con el aire dentro y lo dejas ir despacio.",
+      "inhalar": 4, "sostener": 2, "exhalar": 6, "pausa": 0
+    },
+    {
+      "id": "respirar-007",
+      "nombre": "Para empezar suave",
+      "descripcion": "Un ritmo corto y cómodo, ideal si nunca has hecho respiraciones guiadas.",
+      "inhalar": 3, "sostener": 0, "exhalar": 4, "pausa": 0
+    },
+    {
+      "id": "respirar-008",
+      "nombre": "Suspiro doble",
+      "descripcion": "Tomas aire, al final sumas un sorbito más, y luego lo sueltas todo en un suspiro largo.",
+      "inhalar": 3, "sostener": 0, "exhalar": 6, "pausa": 0,
+      "textos": {
+        "inhalar": "Toma aire… y al final, un sorbito más",
+        "exhalar": "Suéltalo todo en un suspiro largo"
+      }
+    },
+    {
+      "id": "respirar-009",
+      "nombre": "Cuadrada lenta",
+      "descripcion": "La respiración cuadrada, pero con cinco tiempos por lado. Más espacio en cada fase.",
+      "inhalar": 5, "sostener": 5, "exhalar": 5, "pausa": 5
+    },
+    {
+      "id": "respirar-010",
+      "nombre": "Como las olas",
+      "descripcion": "El aire llega como una ola que sube a la orilla y se retira más despacio de lo que vino.",
+      "inhalar": 5, "sostener": 0, "exhalar": 7, "pausa": 0,
+      "textos": {
+        "inhalar": "La ola llega…",
+        "exhalar": "…y se retira despacio"
+      }
+    },
+    {
+      "id": "respirar-011",
+      "nombre": "Soplar una vela",
+      "descripcion": "Sueltas el aire por la boca, muy despacio, como si quisieras mover la llama de una vela sin apagarla.",
+      "inhalar": 4, "sostener": 0, "exhalar": 8, "pausa": 0,
+      "textos": {
+        "inhalar": "Toma aire por la nariz",
+        "exhalar": "Sopla suave, sin apagar la vela"
+      }
+    },
+    {
+      "id": "respirar-012",
+      "nombre": "Seis y seis",
+      "descripcion": "Un ritmo lento y parejo: seis tiempos para entrar y seis para salir.",
+      "inhalar": 6, "sostener": 0, "exhalar": 6, "pausa": 0
+    },
+    {
+      "id": "respirar-013",
+      "nombre": "Con dos descansos",
+      "descripcion": "Inhalas, sostienes, sueltas largo y descansas un momento antes de volver a empezar.",
+      "inhalar": 4, "sostener": 4, "exhalar": 6, "pausa": 2
+    },
+    {
+      "id": "respirar-014",
+      "nombre": "Recorrer la mano",
+      "descripcion": "Si quieres, recorre con un dedo el contorno de tu otra mano: subes por un dedo al inhalar y bajas al exhalar.",
+      "inhalar": 4, "sostener": 0, "exhalar": 4, "pausa": 0,
+      "textos": {
+        "inhalar": "Sube por un dedo mientras tomas aire",
+        "exhalar": "Baja por el otro lado mientras lo sueltas"
+      }
+    },
+    {
+      "id": "respirar-015",
+      "nombre": "Calma al final",
+      "descripcion": "Inhalas, exhalas y te quedas unos segundos en calma antes de la siguiente respiración.",
+      "inhalar": 4, "sostener": 0, "exhalar": 4, "pausa": 4
+    }
+  ]
+}

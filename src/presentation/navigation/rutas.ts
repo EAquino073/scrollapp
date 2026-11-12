@@ -36,5 +36,7 @@ export type RutasRaiz = {
     duracionMinutos: number;
     cumplido: boolean;
     redSocial: string;
+    /** El minijuego se saltó (fase 5): mensaje neutro, sin «no salió». */
+    saltado?: boolean;
   };
 };

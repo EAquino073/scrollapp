@@ -8,3 +8,5 @@ export * from './SessionRepository';
 export * from './SurveyRepository';
 export * from './MonitorDeUso';
 export * from './RecordatoriosLocales';
+export * from './BancoContenido';
+export * from './RotacionRepository';

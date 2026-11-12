@@ -1,13 +1,13 @@
 /**
  * Catálogo de micro-actividades predeterminadas.
  *
- * Distinción que prepara la fase 5:
- * - **Actividad predeterminada**: tiene `tipoActividad` (un código estable). En la fase 5
- *   cada tipo tendrá su contenido guiado en un banco local (pasos, texto, minijuego).
+ * - **Actividad predeterminada**: tiene `tipoActividad` (un código estable). Desde la fase 5
+ *   cada tipo tiene su contenido guiado en el banco local `data/contenido/actividades`
+ *   (pasos, texto, acertijos) y «Un reto para la mente» alterna con minijuegos.
  * - **Hábito propio del usuario**: `tipoActividad = null`. Solo temporizador cálido.
  *
  * Los códigos no cambian nunca: se guardan en Firestore y el contenido guiado se
- * enganchará a ellos sin migrar datos.
+ * engancha a ellos sin migrar datos.
  */
 export const TIPOS_ACTIVIDAD = [
   'ESTIRAR',
@@ -30,10 +30,7 @@ export interface ActividadPredeterminada {
   icono: string;
   /** Una línea que explica en qué consiste, para el onboarding. */
   descripcion: string;
-  /**
-   * `true` cuando la fase 5 le pondrá contenido guiado o minijuego.
-   * Hoy todas funcionan con el temporizador cálido.
-   */
+  /** `true` si tiene contenido guiado (fase 5: todas las predeterminadas lo tienen). */
   tendraContenidoGuiado: boolean;
 }
 
@@ -84,7 +81,7 @@ export const ACTIVIDADES_PREDETERMINADAS: ActividadPredeterminada[] = [
     nombre: 'Leer algo',
     duracionMinutos: 3,
     icono: '📖',
-    descripcion: 'Unas páginas de lo que tengas a mano.',
+    descripcion: 'Un dato curioso o un relato breve, para leer con calma.',
     tendraContenidoGuiado: true,
   },
   {
@@ -92,7 +89,7 @@ export const ACTIVIDADES_PREDETERMINADAS: ActividadPredeterminada[] = [
     nombre: 'Observar a tu alrededor',
     duracionMinutos: 2,
     icono: '👀',
-    descripcion: 'Mirar con calma lo que hay cerca de ti, sin buscar nada.',
+    descripcion: 'Un pequeño reto de atención: colores, sonidos, formas a tu alrededor.',
     tendraContenidoGuiado: true,
   },
   {

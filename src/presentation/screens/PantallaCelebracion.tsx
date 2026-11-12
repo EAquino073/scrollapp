@@ -1,7 +1,7 @@
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import React, { useMemo } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { generarCelebracion, generarMensajeNoCompletado } from '../../domain/usecases';
+import { generarCelebracion, generarMensajeNoCompletado, generarMensajeSalto } from '../../domain/usecases';
 import { Boton, MensajeCalido, Pantalla } from '../components';
 import type { RutasRaiz } from '../navigation/rutas';
 import { useTema } from '../theme/tema';
@@ -11,15 +11,19 @@ type Props = NativeStackScreenProps<RutasRaiz, 'Celebracion'>;
 /**
  * Micro-celebración específica tras la micro-actividad: nombra el hábito realizado.
  * Si no se completó, el mensaje es igual de amable: se registra el patrón, no la culpa.
+ * Si se saltó un minijuego, el mensaje es neutro.
  */
 export function PantallaCelebracion({ route, navigation }: Props) {
-  const { habitId, nombreHabito, duracionMinutos, cumplido, redSocial } = route.params;
+  const { habitId, nombreHabito, duracionMinutos, cumplido, redSocial, saltado = false } = route.params;
   const { tipografia, espaciado } = useTema();
 
   const celebracion = useMemo(() => {
     const habito = { habitId, nombre: nombreHabito, duracionMinutos };
-    return cumplido ? generarCelebracion(habito, redSocial) : generarMensajeNoCompletado(habito, redSocial);
-  }, [cumplido, duracionMinutos, habitId, nombreHabito, redSocial]);
+    if (cumplido) {
+      return generarCelebracion(habito, redSocial);
+    }
+    return saltado ? generarMensajeSalto(redSocial) : generarMensajeNoCompletado(habito, redSocial);
+  }, [cumplido, duracionMinutos, habitId, nombreHabito, redSocial, saltado]);
 
   return (
     <Pantalla centrado>

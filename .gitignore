@@ -82,3 +82,9 @@ yarn-error.log
 
 # Material de contexto de la tesis (solo lectura): no se versiona
 Contexto/
+
+# Documentos entregables de la tesis (capítulos, presentación y sus generadores): no se versionan
+Entregables/
+
+# Herramientas de pruebas y simulación (incluye el avance local en herramientas/.simulacion/): no se versionan
+herramientas/

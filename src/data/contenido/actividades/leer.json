@@ -1,0 +1,366 @@
+{
+  "tipoActividad": "LEER",
+  "descripcion": "Lecturas de 150 a 200 palabras para la actividad «Leer algo» (3 minutos): datos curiosos verídicos (ciencia, historia, naturaleza, lenguaje, curiosidades) y micro-relatos de ficción (relato). Los párrafos se separan con una línea en blanco.",
+  "elementos": [
+    {
+      "id": "leer-001",
+      "categoria": "naturaleza",
+      "titulo": "Tres corazones y sangre azul",
+      "texto": "Un pulpo tiene tres corazones. Dos de ellos se dedican solo a empujar la sangre a través de las branquias, donde se carga de oxígeno; el tercero la reparte por el resto del cuerpo. Y esa sangre no es roja, sino azulada: la proteína que transporta el oxígeno no usa hierro, como la nuestra, sino cobre.\n\nLo curioso no termina ahí. Cerca de dos tercios de sus neuronas no están en la cabeza, sino repartidas en sus ocho brazos. Cada brazo puede explorar, tocar y reaccionar con bastante independencia, mientras el cerebro coordina el conjunto. Las ventosas, además, no solo sujetan: tienen receptores que reconocen sustancias químicas al contacto, algo parecido a saborear lo que tocan.\n\nTambién se ha observado que el corazón principal deja de latir mientras el pulpo nada, y quizá por eso muchos prefieren desplazarse caminando sobre el fondo. Un animal sin huesos, con sangre azul y brazos que casi piensan por su cuenta: la naturaleza ensayó ahí una manera muy distinta de estar vivo."
+    },
+    {
+      "id": "leer-002",
+      "categoria": "lenguaje",
+      "titulo": "Palabras que vienen del náhuatl",
+      "texto": "Cuando dices «tomate», «aguacate» o «chile», usas palabras con siglos de historia en Mesoamérica. Vienen del náhuatl, la lengua de los mexicas y de muchos otros pueblos del centro de México, que todavía hoy hablan más de un millón de personas.\n\nEn náhuatl era muy frecuente la terminación «-tl», y el español la fue suavizando al adoptar las palabras. Así, «tomatl» se volvió «tomate», «ahuacatl» se volvió «aguacate» y «chilli» quedó como «chile». Algunas viajaron tan lejos que hoy se reconocen en idiomas de todo el mundo.\n\nOtras son más cotidianas de lo que parece. «Tiza» viene de «tizatl», una tierra blanca. «Chicle» viene de «tzictli», la resina del chicozapote, que se masticaba mucho antes de que existieran las golosinas envueltas. Y «petate», la estera tejida, viene de «petlatl».\n\nCada vez que alguien pide un aguacate en el mercado, sin saberlo, pronuncia una palabra que ya se escuchaba en Tenochtitlan hace más de quinientos años."
+    },
+    {
+      "id": "leer-003",
+      "categoria": "relato",
+      "titulo": "El reloj de don Aurelio",
+      "texto": "Don Aurelio arreglaba relojes en un local tan pequeño que dos clientes ya eran multitud. En el barrio todos sabían que su reloj de pared iba cinco minutos atrasado, y todos suponían que era un descuido: en casa de herrero, cuchillo de palo.\n\nUn día, una niña que esperaba a su mamá se animó a preguntarle.\n—Don Aurelio, ¿por qué no arregla su reloj?\nÉl dejó la lupa sobre la mesa, despacio, como quien deja algo valioso.\n—Porque está bien así. Cuando alguien entra corriendo, mira el reloj y cree que llegó con tiempo. Entonces respira, se sienta y me cuenta con calma qué le pasa a su reloj. La gente apurada explica mal las cosas.\n\nLa niña lo pensó un momento.\n—¿Y a usted no le hacen falta esos minutos?\n—A mí me sobran cinco minutos todos los días —dijo sonriendo—. Los uso para mirar por la ventana.\n\nDesde entonces, cada vez que ella pasa frente al local, se asoma a ver la hora. Nunca coincide con la de la calle, y siempre parece que ahí adentro nadie tiene prisa."
+    },
+    {
+      "id": "leer-004",
+      "categoria": "ciencia",
+      "titulo": "Por qué el cielo es azul",
+      "texto": "La luz del Sol parece blanca, pero en realidad es una mezcla de todos los colores. Cuando atraviesa la atmósfera, choca con las moléculas del aire, que son diminutas, y estas la desvían en todas direcciones. No todos los colores se desvían igual: los de onda más corta, como el azul y el violeta, se dispersan mucho más que el rojo o el amarillo.\n\nPor eso, miremos hacia donde miremos, nos llega luz azul rebotada desde todas partes del cielo. ¿Y el violeta? También se dispersa, incluso más, pero el Sol emite menos luz violeta, parte de ella se absorbe en lo alto de la atmósfera y nuestros ojos son menos sensibles a ese color. El resultado que percibimos es azul.\n\nAl atardecer pasa lo contrario. La luz tiene que atravesar mucha más atmósfera para llegar hasta nosotros, y en el camino el azul se dispersa y se pierde. Lo que sobrevive son los rojos, los naranjas y los dorados. El mismo aire, la misma luz, y un cielo completamente distinto según la hora."
+    },
+    {
+      "id": "leer-005",
+      "categoria": "historia",
+      "titulo": "Un signo para la nada",
+      "texto": "Hace más de mil quinientos años, en las tierras mayas que hoy forman parte de Guatemala, México, Belice, Honduras y El Salvador, los escribas llevaban la cuenta del tiempo con una precisión asombrosa. Para lograrlo usaban un sistema de numeración con solo tres signos: un punto valía uno, una barra valía cinco y un dibujo parecido a una concha representaba el cero.\n\nEse último signo es más importante de lo que parece. Tener un símbolo para «nada» permite escribir números enormes con pocos signos, porque el valor de cada uno depende del lugar que ocupa. Los mayas contaban de veinte en veinte, quizá porque tenemos veinte dedos entre manos y pies, y apilaban los signos en niveles.\n\nMuy pocas civilizaciones llegaron por su cuenta a la idea del cero. Los mayas lo hicieron sin contacto con los matemáticos de la India, que lo desarrollaron del otro lado del mundo.\n\nCon ese sistema registraron fechas, ciclos de la Luna y los movimientos de Venus. Una concha pequeña, dibujada en piedra, guardaba una de las ideas más poderosas de las matemáticas."
+    },
+    {
+      "id": "leer-006",
+      "categoria": "naturaleza",
+      "titulo": "El quetzal",
+      "texto": "El quetzal es el ave nacional de Guatemala, y basta verlo una vez para entender por qué. Su plumaje es de un verde brillante que cambia de tono con la luz, y el vientre de los machos es de un rojo intenso. Lo más llamativo son las plumas largas que los machos lucen sobre la cola: pueden medir más de medio metro, más que el resto de su cuerpo.\n\nVive en los bosques nubosos, esos bosques de montaña donde la neblina se queda enredada entre los árboles. Allí se alimenta sobre todo de frutos, y tiene una preferencia especial por los aguacatillos, parientes silvestres del aguacate. Se los traga enteros y luego regurgita la semilla, a veces lejos del árbol de donde la tomó. Sin proponérselo, ayuda a sembrar el bosque del que depende.\n\nPara anidar busca troncos viejos y blandos, donde la pareja excava un hueco. Los mayas apreciaban tanto sus plumas que las usaban en los adornos de personas importantes. Hoy su nombre también está en el bolsillo de todo el país: la moneda de Guatemala se llama quetzal desde 1925."
+    },
+    {
+      "id": "leer-007",
+      "categoria": "lenguaje",
+      "titulo": "La historia de la ñ",
+      "texto": "El latín no tenía ñ. Esta letra nació mucho después, en la Edad Media, gracias a una costumbre práctica de los copistas: escribir a mano era lento y el pergamino costaba caro, así que abreviaban. Cuando una letra se repetía, a veces la escribían una sola vez y le ponían encima una rayita.\n\nAsí, la doble ene de palabras como «anno» terminó escrita como una n con una pequeña onda encima. Con el tiempo, esa abreviatura dejó de serlo y se convirtió en una letra propia, con su propio sonido. Del latín «annus» salió nuestro «año».\n\nOtras lenguas que vienen del latín resolvieron el mismo sonido de maneras distintas. El portugués escribe «nh», el catalán «ny», y el francés y el italiano «gn». Por eso «España» es «Espanha» en portugués y «Spagna» en italiano.\n\nLa ñ se volvió tan característica del español que muchos la ven como su símbolo. Además, viajó a otras lenguas: la usan, por ejemplo, el gallego, el vasco, el guaraní y el filipino. Una rayita para ahorrar tinta terminó convirtiéndose en una seña de identidad."
+    },
+    {
+      "id": "leer-008",
+      "categoria": "curiosidades",
+      "titulo": "La torre que crece en verano",
+      "texto": "La Torre Eiffel no mide siempre lo mismo. Está hecha de hierro, y el hierro, como casi todos los metales, se dilata con el calor y se contrae con el frío. En los días más calurosos del verano, la torre puede crecer hasta unos quince centímetros. En invierno vuelve a encogerse.\n\nHay un detalle todavía más curioso. Cuando el sol le da de un solo lado, esa cara se calienta y se estira más que la opuesta, así que la punta se inclina levemente, alejándose del sol. A lo largo del día, la cima dibuja en el aire un recorrido pequeño, de apenas unos centímetros.\n\nLa torre se construyó para la Exposición Universal de 1889 y, en principio, iba a ser desmontada al cabo de veinte años. Muchos artistas de la época la consideraban fea y protestaron contra ella. La salvó, en parte, su utilidad: resultó ideal para colocar antenas y hacer experimentos de transmisión por radio.\n\nHoy es uno de los monumentos más visitados del mundo, con más de trescientos metros de altura. Una estructura que respira con las estaciones, creciendo y encogiéndose un poco cada año."
+    },
+    {
+      "id": "leer-009",
+      "categoria": "relato",
+      "titulo": "La coleccionista de sonidos",
+      "texto": "Marta tenía nueve años y una libreta de tapas amarillas donde no dibujaba ni hacía tareas: coleccionaba sonidos. No los grababa. Los escribía.\n\n«Martes, siete y diez. La vecina sacude una alfombra: suena como aplausos lejanos.»\n«Jueves. La lluvia en el techo de lámina: un tambor que no se cansa.»\n«Sábado. El pan recién sacado de la bolsa: un crujido corto, como una hoja seca.»\n\nSu hermano mayor se burlaba un poco. Decía que los sonidos no se podían coleccionar, que se iban apenas llegaban. Marta no discutía. Seguía anotando.\n\nUna tarde se fue la luz en todo el barrio. Sin televisión ni ventiladores, la casa se quedó en un silencio raro, y el hermano, aburrido, se sentó junto a ella.\n—A ver, ¿qué se oye ahora? —preguntó.\nMarta cerró los ojos.\n—Un perro, dos cuadras más allá. Una puerta de metal. Alguien que se ríe en otra casa. Y tu estómago.\nÉl se rió y se quedó escuchando también.\n\nEsa noche, en la libreta amarilla, apareció una letra distinta, más grande y torcida: «Apagón. Mi hermana tenía razón. Se oye todo»."
+    },
+    {
+      "id": "leer-010",
+      "categoria": "ciencia",
+      "titulo": "Mirar las estrellas es mirar el pasado",
+      "texto": "La luz es lo más rápido que conocemos: recorre casi trescientos mil kilómetros por segundo. Aun así, las distancias del universo son tan enormes que incluso la luz se toma su tiempo. La del Sol tarda poco más de ocho minutos en llegar hasta nosotros. Eso significa que, cuando vemos el Sol, lo vemos como era hace ocho minutos.\n\nCon las estrellas, la diferencia es mucho mayor. La luz de algunas de las que se ven a simple vista salió de ellas hace decenas, cientos o incluso miles de años. Cada punto brillante del cielo nocturno es, en realidad, un mensaje antiguo que acaba de llegar.\n\nLa galaxia de Andrómeda, uno de los objetos más lejanos que pueden verse sin telescopio en una noche muy oscura, está a unos dos millones y medio de años luz. La luz que nos llega hoy de ella salió mucho antes de que existiera nuestra especie.\n\nAsí que una noche estrellada no es una fotografía del presente. Es una colección de momentos distintos del pasado, todos brillando a la vez sobre nuestra cabeza."
+    },
+    {
+      "id": "leer-011",
+      "categoria": "historia",
+      "titulo": "Cuando el cacao era dinero",
+      "texto": "Mucho antes de convertirse en chocolate dulce, el cacao era una bebida espumosa y amarga que se preparaba en Mesoamérica. Los mayas lo molían, lo mezclaban con agua y a veces con chile o con maíz, y lo pasaban de un recipiente a otro desde cierta altura para que hiciera espuma. En algunas vasijas mayas se ha encontrado escrita la palabra con la que lo nombraban.\n\nEl cacao era tan valioso que funcionaba como moneda. En los mercados de Mesoamérica se podían pagar productos con semillas de cacao, y en documentos del siglo XVI quedaron listas de precios: una semilla por un tomate, unas treinta por un conejo.\n\nDonde hay dinero, también hay falsificadores. Los cronistas de esa época contaron que algunas personas vaciaban las semillas y las rellenaban con tierra o con cera para hacerlas pasar por buenas.\n\nCuando el cacao llegó a Europa, se le fue agregando azúcar, canela y, mucho después, leche, hasta convertirse en el chocolate que conocemos. Pero su historia empezó aquí, en tierras mesoamericanas, entre espuma, semillas y mercados."
+    },
+    {
+      "id": "leer-012",
+      "categoria": "naturaleza",
+      "titulo": "El colibrí, un motor diminuto",
+      "texto": "Los colibríes solo existen en América, y en Guatemala mucha gente los conoce como gorriones. Son pequeños, pero su cuerpo funciona a una velocidad difícil de imaginar. Muchas especies agitan las alas decenas de veces por segundo, tan rápido que el ojo solo ve un borrón y el oído escucha un zumbido. Su corazón puede latir más de mil veces por minuto cuando están en actividad.\n\nGracias a la forma en que mueven las alas, pueden quedarse suspendidos en el aire durante mucho tiempo e incluso volar hacia atrás, algo que casi ninguna otra ave logra. Así se quedan frente a una flor mientras toman su néctar con una lengua larga y ágil.\n\nTanta energía tiene un costo: necesitan comer muy seguido. Por las noches, para ahorrar energía, muchos entran en un estado llamado torpor. Bajan la temperatura de su cuerpo y el ritmo de su corazón, y quedan casi inmóviles hasta que amanece.\n\nEl más pequeño de todos es el colibrí abeja, de Cuba: mide unos cinco centímetros y pesa menos que una moneda pequeña. Un motor diminuto que se enciende cada mañana."
+    },
+    {
+      "id": "leer-013",
+      "categoria": "lenguaje",
+      "titulo": "Palabras que llegaron del árabe",
+      "texto": "Durante casi ocho siglos, entre los años 711 y 1492, buena parte de la península ibérica estuvo bajo gobiernos de habla árabe. En ese tiempo convivieron lenguas, oficios y costumbres, y el español se quedó con miles de palabras de origen árabe. Algunos cálculos hablan de unas cuatro mil, contando las derivadas.\n\nMuchas son fáciles de reconocer porque empiezan con «al», que era el artículo en árabe: almohada, alfombra, algodón, albañil, alcancía, álgebra. Otras llevan el artículo más escondido, como azúcar, aceite o aceituna.\n\nEl vocabulario árabe llegó sobre todo en los campos donde esa cultura aportó novedades: la agricultura, la construcción, la ciencia y el comercio. Por eso tenemos palabras como acequia, noria, azulejo, arroz o berenjena. Algunas vinieron desde aún más lejos: «naranja», por ejemplo, viajó del sánscrito al persa y del persa al árabe antes de llegar al español.\n\nTambién de esa época viene la palabra «cifra», del árabe «sifr», que significaba vacío o cero. Cada vez que hablamos de una cifra enorme, usamos una palabra que en su origen quería decir nada."
+    },
+    {
+      "id": "leer-014",
+      "categoria": "curiosidades",
+      "titulo": "Inventos por casualidad",
+      "texto": "Algunos inventos no nacieron de un gran plan, sino de un pequeño accidente y de alguien que prestó atención.\n\nA comienzos de los años cuarenta, el ingeniero suizo George de Mestral volvió de pasear con su perro y encontró el pelaje del animal lleno de cadillos, esas semillas espinosas que se pegan a todo. En lugar de solo quitarlos, los miró con un microscopio y vio que estaban cubiertos de ganchos diminutos. Años después, esa observación se convirtió en el velcro.\n\nEn 1945, el ingeniero estadounidense Percy Spencer trabajaba cerca de un aparato que producía microondas para radares. De pronto notó que una barra de chocolate que llevaba en el bolsillo se había derretido. Siguió investigando, y así nació el horno de microondas.\n\nY en 1968, el químico Spencer Silver buscaba un pegamento muy fuerte, pero obtuvo uno que apenas pegaba y se podía despegar sin dejar rastro. Nadie supo qué hacer con él durante años, hasta que a un colega se le ocurrió usarlo en papelitos para marcar páginas.\n\nUn cadillo, un chocolate derretido y un pegamento débil: la curiosidad hizo el resto."
+    },
+    {
+      "id": "leer-015",
+      "categoria": "relato",
+      "titulo": "El paraguas amarillo",
+      "texto": "Nadie supo de quién era el paraguas amarillo que apareció un martes en el último asiento del bus. El chofer lo guardó junto a su asiento, esperando que alguien lo reclamara. Nadie lo hizo.\n\nEl jueves llovió fuerte. Una señora que subió empapada miró el paraguas con tanta tristeza que el chofer se lo prestó.\n—Me lo devuelve cuando pueda —le dijo.\nElla lo devolvió al día siguiente, seco y bien doblado, con una bolsita de dulces de coco amarrada al mango.\n\nLa semana siguiente se lo llevó un muchacho que iba a una entrevista de trabajo. Lo devolvió con una nota: «Me contrataron. Gracias a usted no llegué mojado». Luego lo usaron una niña con su abuelo, y después un señor que vendía periódicos.\n\nCon los meses, el paraguas amarillo se volvió parte del bus, como el timbre o las agarraderas. Alguien le cosió una etiqueta: «Préstamo. Devuélvase con cariño».\n\nEl chofer nunca supo quién lo había olvidado. A veces pensaba que, en realidad, nadie lo había olvidado. Que alguien lo había dejado ahí a propósito, para ver qué pasaba."
+    },
+    {
+      "id": "leer-016",
+      "categoria": "ciencia",
+      "titulo": "Un día más largo que un año",
+      "texto": "En Venus, el planeta vecino, el tiempo funciona de una manera muy extraña. Gira sobre sí mismo tan despacio que tarda unos 243 días terrestres en completar una vuelta. En cambio, tarda solo unos 225 días en dar la vuelta completa alrededor del Sol. Dicho de otra forma: en Venus, una vuelta sobre sí mismo dura más que un año.\n\nHay otra rareza. Casi todos los planetas del sistema solar giran en el mismo sentido, pero Venus lo hace al revés. Si alguien pudiera ver el cielo desde su superficie, vería al Sol salir por el oeste y ocultarse por el este.\n\nEse «si alguien pudiera» es importante, porque Venus no es un lugar amable. Está cubierto de nubes espesas y su atmósfera, formada sobre todo por dióxido de carbono, atrapa tanto calor que la superficie supera los 400 grados. Es más caliente que Mercurio, aunque Mercurio está más cerca del Sol.\n\nDesde la Tierra, en cambio, se ve precioso. Después de la Luna, es el objeto más brillante del cielo nocturno. Detrás de ese brillo tranquilo hay un mundo con sus propias reglas."
+    },
+    {
+      "id": "leer-017",
+      "categoria": "historia",
+      "titulo": "Tikal, la ciudad en la selva",
+      "texto": "En el norte de Guatemala, en medio de la selva de Petén, se levantan los templos de Tikal, una de las ciudades más grandes que construyeron los mayas. En su época de mayor esplendor, hace más de mil años, allí vivían decenas de miles de personas, entre plazas, palacios, calzadas y depósitos para guardar el agua de lluvia.\n\nSu templo más alto, conocido como Templo IV, supera los sesenta metros. Fue una de las construcciones más altas de toda América antes de la llegada de los europeos. Desde su cima, las copas de los árboles se ven como un mar verde del que sobresalen otras pirámides.\n\nPor razones que todavía se estudian, la ciudad fue quedando despoblada hacia el siglo X, y la selva la cubrió poco a poco. Desde el siglo XIX, exploradores y arqueólogos han ido descubriendo sus edificios, y en 1979 fue declarada Patrimonio de la Humanidad.\n\nHay un dato curioso para quienes aman el cine: en 1977, algunas tomas de la primera película de «La guerra de las galaxias» se filmaron en Tikal. Sus templos aparecen como la base secreta de un planeta lejano."
+    },
+    {
+      "id": "leer-018",
+      "categoria": "naturaleza",
+      "titulo": "El animal casi indestructible",
+      "texto": "Los tardígrados miden menos de un milímetro, tienen ocho patas regordetas con garras diminutas y se mueven con una torpeza encantadora. Por su aspecto, también se les llama «osos de agua». Viven en casi cualquier lugar húmedo del planeta: en el musgo, en los líquenes, en el fondo del mar, en la hojarasca.\n\nSu fama viene de su resistencia. Cuando el ambiente se seca, un tardígrado puede encoger su cuerpo, perder casi toda su agua y entrar en un estado en el que su actividad se detiene casi por completo. Así, convertido en una especie de bolita seca, soporta condiciones que acabarían con casi cualquier otro ser vivo: frío extremo, calor intenso durante un rato, falta de oxígeno y altos niveles de radiación.\n\nEn 2007, un grupo de científicos envió tardígrados deshidratados al espacio, expuestos al vacío fuera de la nave. Al volver a la Tierra y recibir agua, algunos se reanimaron e incluso tuvieron crías.\n\nEso sí, no son invencibles: cuando están activos, son tan frágiles como cualquier criatura pequeña. Su secreto no es la fuerza, sino saber hacer una pausa."
+    },
+    {
+      "id": "leer-019",
+      "categoria": "lenguaje",
+      "titulo": "Palabras de ida y vuelta",
+      "texto": "Algunas palabras se leen igual de izquierda a derecha que de derecha a izquierda: oso, radar, reconocer, somos. Se llaman palíndromos, una palabra que viene del griego y significa algo así como «que corre de regreso».\n\nCon frases también se puede. «Anita lava la tina» es quizá el más conocido en español. Otros son igual de juguetones: «Yo hago yoga hoy», «Somos o no somos», «Luz azul» o «La ruta natural». Para comprobarlos hay que ignorar los espacios, las tildes y los signos, y fijarse solo en las letras.\n\nLos números que se leen igual en ambos sentidos, como 121 o 4554, tienen un nombre propio en español: capicúas. La palabra viene del catalán «cap i cua», que significa «cabeza y cola». Hay fechas capicúas, como el 22 de febrero de 2022, que escrita como 22022022 se lee igual al derecho y al revés.\n\nInventar palíndromos es más difícil de lo que parece, porque cada letra que se agrega al principio obliga a poner la misma al final. Si te animas, puedes intentar uno corto ahora mismo. Una pista: «ala», «ojo» y «oro» ya lo son."
+    },
+    {
+      "id": "leer-020",
+      "categoria": "curiosidades",
+      "titulo": "Más árboles que estrellas",
+      "texto": "¿Cuántos árboles hay en la Tierra? Durante mucho tiempo nadie tenía una respuesta confiable. En 2015, un equipo internacional de investigadores combinó imágenes de satélite con mediciones hechas a pie en cientos de miles de parcelas de bosque de todo el mundo. Su cálculo sorprendió a casi todos: alrededor de tres billones de árboles.\n\nTres billones, en español, es un tres seguido de doce ceros. Para comparar, se estima que en la Vía Láctea, nuestra galaxia, hay entre cien mil y cuatrocientos mil millones de estrellas. Es decir, en nuestro planeta hay bastantes más árboles que estrellas en toda la galaxia.\n\nLos árboles no están repartidos por igual. Las zonas tropicales, como las selvas de Centroamérica, concentran una gran parte, y les siguen los enormes bosques del norte, en lugares como Rusia, Escandinavia y Canadá.\n\nLa próxima vez que veas un árbol, puedes pensar que es uno entre tres billones, y que aun así no hay otro igual: su forma, sus ramas, su corteza y la sombra que da son solo suyas."
+    },
+    {
+      "id": "leer-021",
+      "categoria": "relato",
+      "titulo": "El helecho de la ventana",
+      "texto": "Don Emilio regaba su helecho todas las mañanas a las siete, en la ventana del tercer piso. Era una planta enorme, más vieja que algunos de los vecinos, y él le hablaba en voz baja mientras la regaba, como quien saluda a alguien de la familia.\n\nEn el edificio de enfrente, una muchacha que estudiaba de madrugada empezó a fijarse en esa escena. Casi sin darse cuenta, se volvió parte de su rutina: cuando don Emilio salía a regar, ella sabía que era hora de apagar la lámpara y preparar café.\n\nUn día, don Emilio no apareció. Tampoco al día siguiente. La muchacha se preocupó tanto que cruzó la calle y preguntó en la portería. Le contaron que estaba de visita en casa de su hija, que volvía el domingo y que el helecho se estaba quedando sin agua. El portero tenía una llave para emergencias, y los dos estuvieron de acuerdo en que un helecho con sed era una emergencia.\n\nEl domingo, don Emilio encontró su planta verde y contenta, con una nota en la maceta: «La regué todos los días a las siete. También le hablé un poco. Saludos desde la ventana de enfrente»."
+    },
+    {
+      "id": "leer-022",
+      "categoria": "ciencia",
+      "titulo": "Hechos de polvo de estrellas",
+      "texto": "Casi todo el hidrógeno del universo se formó poco después de su origen, hace unos 13 800 millones de años. En cambio, muchos otros elementos, como el carbono, el oxígeno o el calcio, no existían entonces: se fueron fabricando después, dentro de las estrellas.\n\nEn el centro de una estrella, la presión y la temperatura son tan altas que los núcleos de los átomos se fusionan y forman elementos más pesados. Cuando las estrellas grandes terminan su vida, a veces en explosiones enormes llamadas supernovas, esos elementos salen disparados al espacio. Con el tiempo, ese material se mezcla con nubes de gas y polvo, y de ahí nacen nuevas estrellas, planetas y todo lo que hay en ellos.\n\nEl carbono de nuestras células, el oxígeno que respiramos y el calcio de los huesos se formaron, en buena parte, dentro de estrellas que existieron antes que el Sol. Y el hidrógeno del agua que bebemos es casi tan viejo como el universo mismo.\n\nLa frase «estamos hechos de polvo de estrellas» suena poética, pero es bastante literal. Cada persona lleva dentro átomos con una historia de miles de millones de años."
+    },
+    {
+      "id": "leer-023",
+      "categoria": "historia",
+      "titulo": "La primera fotografía",
+      "texto": "La fotografía más antigua que se conserva tomada con una cámara no muestra personas ni paisajes famosos. Muestra techos, un pedazo de cielo y la esquina de un edificio, vistos desde una ventana en el campo francés. La hizo Nicéphore Niépce hacia 1826 o 1827.\n\nNiépce cubrió una placa de metal con un tipo de betún que se endurece con la luz y la dejó dentro de una cámara, apuntando por la ventana. La exposición duró muchas horas, quizá días. Por eso la imagen es tan extraña: el sol se movió durante todo ese tiempo, y los dos lados de los edificios aparecen iluminados a la vez.\n\nUnos años después, Louis Daguerre, que había trabajado con Niépce, perfeccionó otro método y redujo la espera a unos minutos. En 1839 se presentó públicamente el daguerrotipo, y la fotografía empezó a extenderse por el mundo.\n\nEn los primeros retratos, las personas tenían que quedarse inmóviles durante bastante rato, a veces con soportes ocultos para la cabeza. Esa es una de las razones por las que casi nadie sonríe en las fotos antiguas: es difícil sostener una sonrisa tanto tiempo."
+    },
+    {
+      "id": "leer-024",
+      "categoria": "naturaleza",
+      "titulo": "La vida en cámara lenta",
+      "texto": "Los perezosos viven en las selvas de Centroamérica y Sudamérica, y pasan casi toda su vida colgados de los árboles. Son famosos por su lentitud, pero esa lentitud no es pereza: es una estrategia. Se alimentan sobre todo de hojas, que aportan poca energía y son difíciles de digerir, así que su cuerpo funciona en modo ahorro. Digerir una sola comida puede tomarles días.\n\nSe mueven tan despacio y tan poco que en su pelaje crecen algas diminutas, que le dan un tono verdoso y los ayudan a confundirse con el follaje. En ese mismo pelaje viven polillas, escarabajos y otros animalitos: cada perezoso es, en cierto modo, un pequeño ecosistema.\n\nAunque en tierra son torpes, en el agua se defienden muy bien. Son buenos nadadores y pueden aguantar la respiración durante mucho tiempo, bastante más que muchos otros mamíferos terrestres.\n\nLo más curioso es su rutina: la mayoría baja del árbol más o menos una vez por semana para hacer sus necesidades en el suelo, y luego vuelve a subir, sin ninguna prisa. En la selva, el perezoso lleva su propio reloj."
+    },
+    {
+      "id": "leer-025",
+      "categoria": "lenguaje",
+      "titulo": "El ratoncito ciego",
+      "texto": "«Murciélago» es famosa en los juegos de palabras porque contiene las cinco vocales, cada una una sola vez. No es la única: «euforia», «abuelito», «educación» y «centrifugado» también las reúnen todas.\n\nLo curioso es que la palabra murciélago tiene su propia historia de cambios. Viene de una forma más antigua, «murciégalo», que a su vez procede del latín: «mus», que significa ratón, y «caeculus», que quiere decir cieguito. Es decir, para quienes le pusieron nombre, el murciélago era un «ratoncito ciego».\n\nCon el tiempo, la gente fue cambiando de lugar algunos sonidos, algo muy común en las lenguas. De «murciégalo» se pasó a «murciélago», que es la forma que se impuso. Aun así, el diccionario sigue aceptando «murciégalo» como válida.\n\nEl nombre, por cierto, no es muy justo con el animal: los murciélagos no son ciegos. Muchos ven bastante bien y, además, varias especies se orientan con ecos: emiten sonidos muy agudos y escuchan cómo rebotan en lo que tienen cerca. Un ratoncito ciego que, en realidad, «ve» con los oídos."
+    },
+    {
+      "id": "leer-026",
+      "categoria": "curiosidades",
+      "titulo": "De dónde salió el sudoku",
+      "texto": "Aunque su nombre es japonés, el sudoku moderno se inventó en Estados Unidos. Lo creó Howard Garns, un arquitecto jubilado aficionado a los pasatiempos, y se publicó por primera vez en 1979 en una revista de acertijos con el nombre de «Number Place», es decir, «el lugar del número».\n\nEn 1984, una editorial japonesa de pasatiempos lo llevó a Japón y le dio un nombre larguísimo que significa, más o menos, «los números deben estar solos». Con el tiempo se abrevió a «sudoku», y allí se volvió muy popular.\n\nLa fiebre mundial llegó a mediados de la década de 2000, cuando periódicos británicos empezaron a publicarlo a diario. En pocos meses apareció en diarios de todo el mundo.\n\nUna de las cosas que lo hacen atractivo es que no requiere saber matemáticas: los números podrían cambiarse por colores, letras o figuras, y el juego sería el mismo. Lo único que importa es que no se repitan en cada fila, columna y recuadro.\n\nSi alguna vez te toca un sudoku en esta actividad, ya sabes: detrás de esa cuadrícula hay un arquitecto, una editorial japonesa y millones de personas pensando en silencio."
+    },
+    {
+      "id": "leer-027",
+      "categoria": "relato",
+      "titulo": "El pan de las cinco",
+      "texto": "Tomás abría la panadería a las cinco de la mañana, cuando la calle todavía estaba oscura y el único ruido era el del horno. A esa hora pasaba siempre la misma mujer, con uniforme azul y cara de cansancio, caminando despacio hacia la parada del bus. Él sabía, sin que nadie se lo dijera, que venía de trabajar toda la noche.\n\nUn día, sin pensarlo mucho, salió a la puerta con un pan dulce todavía tibio, envuelto en papel.\n—Invita la casa —le dijo—. Para el camino.\nElla lo aceptó con una sonrisa sorprendida y siguió andando.\n\nDesde entonces, cada mañana había un pan esperándola en el mostrador. Casi no hablaban: buenos días, gracias, que le vaya bien. No hacía falta más.\n\nMeses después, una madrugada de lluvia, fue ella la que entró primero. Traía dos vasos de café de la máquina del hospital.\n—Hoy invito yo —dijo—. Para el panadero.\n\nSe quedaron un rato mirando la lluvia por la vitrina, cada uno con su café, mientras el pan terminaba de dorarse. Afuera, la calle empezaba a despertar."
+    },
+    {
+      "id": "leer-028",
+      "categoria": "ciencia",
+      "titulo": "La Luna se aleja",
+      "texto": "Cada año, la Luna se aleja de la Tierra unos cuatro centímetros, más o menos lo que crecen las uñas de una persona en ese mismo tiempo. Es tan poco que nadie lo notaría a simple vista, pero se ha podido medir con enorme precisión.\n\n¿Cómo? Las misiones que llegaron a la Luna a partir de 1969 dejaron allí unos espejos especiales. Desde la Tierra, algunos observatorios disparan rayos láser hacia esos espejos y miden cuánto tarda la luz en ir y volver. Como la velocidad de la luz se conoce muy bien, ese tiempo revela la distancia con un margen de apenas milímetros.\n\nLa causa de este alejamiento son las mareas. La Luna atrae el agua de los océanos, y la Tierra, al girar, arrastra ese abultamiento un poco por delante de la Luna. Esa pequeña diferencia la va empujando, muy lentamente, hacia afuera. A cambio, la rotación de la Tierra se frena un poquito, y los días se alargan unas dos milésimas de segundo por siglo.\n\nLa Luna seguirá acompañándonos durante muchísimo tiempo. Solo que, año con año, está un poquito más lejos."
+    },
+    {
+      "id": "leer-029",
+      "categoria": "historia",
+      "titulo": "Un juego que viajó por el mundo",
+      "texto": "El ajedrez nació en la India hace unos mil quinientos años, con un nombre que significaba algo así como «las cuatro partes del ejército»: infantería, caballería, elefantes y carros. De la India pasó a Persia, y de ahí al mundo árabe, que lo llevó hasta la península ibérica. En cada viaje, las piezas y las reglas fueron cambiando.\n\nUna de las transformaciones más curiosas es la de la dama, hoy la pieza más poderosa del tablero. Durante siglos, en su lugar estaba un consejero del rey que solo podía moverse una casilla en diagonal. Era una de las piezas más débiles.\n\nHacia finales del siglo XV, en lo que hoy es España, se empezó a jugar con una dama capaz de recorrer el tablero en todas direcciones. El juego se volvió más rápido y emocionante, y esa versión se extendió por toda Europa.\n\nHasta el final de la partida tiene historia. «Jaque» viene del persa «sha», que significa rey, y «jaque mate» viene de una expresión persa que suele traducirse como «el rey está indefenso». Cada partida lleva dentro un viaje de muchos siglos."
+    },
+    {
+      "id": "leer-030",
+      "categoria": "naturaleza",
+      "titulo": "El baile de las abejas",
+      "texto": "Cuando una abeja obrera encuentra un buen campo de flores, vuelve a la colmena y hace algo sorprendente: baila. Sobre el panal, en la oscuridad, recorre una línea recta mientras sacude el cuerpo de lado a lado, luego gira y vuelve al punto de partida para repetirlo, dibujando una especie de ocho.\n\nEse baile es un mapa. El ángulo de la línea recta respecto a la vertical del panal indica la dirección de las flores en relación con la posición del Sol. Y el tiempo que dura el meneo indica la distancia: cuanto más largo, más lejos está el alimento. Las compañeras la siguen de cerca, tocándola con sus antenas, y luego salen a buscar el lugar.\n\nQuien descifró este lenguaje fue el científico austriaco Karl von Frisch, después de años de observar colmenas con paciencia. Por sus estudios sobre la comunicación y los sentidos de las abejas recibió el Premio Nobel en 1973.\n\nHay más: las abejas ven la luz ultravioleta, que para nosotros es invisible. Muchas flores tienen dibujos en ese color que les señalan dónde está el néctar. Un jardín que para nosotros es sencillo, para ellas está lleno de avisos."
+    },
+    {
+      "id": "leer-031",
+      "categoria": "lenguaje",
+      "titulo": "Un país de muchas lenguas",
+      "texto": "En Guatemala se hablan más de veinte idiomas. Junto al español, la ley reconoce veintidós idiomas mayas, además del xinka y el garífuna. El k'iche', el q'eqchi', el kaqchikel y el mam están entre los más hablados, cada uno con cientos de miles de hablantes o más.\n\nLos idiomas mayas no son dialectos de una misma lengua, sino idiomas distintos; algunos son tan diferentes entre sí como el español y el francés. Todos vienen de un antepasado común que se habló hace miles de años, y a partir de él se fueron separando, como las ramas de un árbol.\n\nEl xinka es una lengua del sureste del país, sin parentesco conocido con las lenguas mayas. El garífuna, hablado en la costa del Caribe, es una lengua de origen arahuaco que el pueblo garífuna trajo desde las islas del Caribe, y que incorporó muchas palabras del francés, el inglés y el español.\n\nIncluso el nombre del país tiene historia. La explicación más aceptada es que viene del náhuatl y significa «lugar de muchos árboles». Así que cada vez que alguien dice «Guatemala», sin darse cuenta, nombra un bosque."
+    },
+    {
+      "id": "leer-032",
+      "categoria": "curiosidades",
+      "titulo": "El cubo de los trillones",
+      "texto": "En 1974, el húngaro Ernő Rubik, profesor de diseño y arquitectura, construyó un cubo con piezas que giraban. No buscaba inventar un juguete famoso: quería un objeto que ayudara a sus estudiantes a pensar en el movimiento y en el espacio. Cuando lo desordenó por primera vez, tardó más de un mes en volver a armarlo.\n\nEl cubo tiene seis caras de colores y parece sencillo, pero esconde una cantidad de combinaciones casi imposible de imaginar: unos cuarenta y tres trillones. En español, un trillón es un uno seguido de dieciocho ceros. Si alguien probara una combinación por segundo, necesitaría mucho más tiempo que la edad del universo para verlas todas.\n\nAun así, en 2010 un grupo de matemáticos y programadores demostró, con ayuda de muchísimas computadoras, que cualquier cubo desordenado puede resolverse en veinte movimientos o menos.\n\nHoy existen competencias donde algunas personas lo resuelven en pocos segundos, e incluso con los ojos vendados después de memorizarlo. Pero la mayoría de quienes tienen uno lo usan igual que su inventor al principio: girando piezas sin prisa, por el gusto de ver qué pasa."
+    },
+    {
+      "id": "leer-033",
+      "categoria": "relato",
+      "titulo": "Quién llegó hoy",
+      "texto": "Joaquín tenía seis años y una teoría: las nubes no pasaban por casualidad, sino que venían a visitar a alguien. Por eso, todas las tardes se sentaba en el patio de su abuela para ver quién había llegado.\n\n—Esa es un perro con sombrero —anunciaba.\n—Esa otra, una tetera —respondía la abuela, sin levantar la vista de la ropa que doblaba.\n—¡No, abuela! Es un barco con una sola vela.\n—Ah, sí. Un barco. Tienes razón.\n\nCon el tiempo, la abuela empezó a dejar la ropa a un lado. Se sentaba junto a él y miraban juntos, en silencio, hasta que uno de los dos encontraba algo. Llegaron dragones, bicicletas, una ballena, un señor dormido. Una vez vieron una nube idéntica a la abuela, con su moño y todo, y se rieron tanto que el vecino se asomó a ver qué pasaba.\n\nJoaquín creció y dejó de pensar que las nubes venían de visita. Pero cuando va a ver a su abuela, lo primero que hacen es salir al patio y mirar hacia arriba.\n—¿Quién llegó hoy? —pregunta ella.\nY siempre hay alguien."
+    },
+    {
+      "id": "leer-034",
+      "categoria": "ciencia",
+      "titulo": "Por qué la cebolla nos hace llorar",
+      "texto": "Cortar una cebolla parece una tarea sencilla, hasta que empiezan las lágrimas. Detrás de ese momento hay una pequeña reacción química que la cebolla usa para defenderse.\n\nMientras está entera, la cebolla guarda por separado ciertas sustancias con azufre y las enzimas capaces de transformarlas. Al cortarla, las células se rompen, esos ingredientes se mezclan y, en cuestión de segundos, se forma un gas muy volátil. Ese gas sube, llega a los ojos y los irrita. Los ojos responden de la única forma que saben: producen lágrimas para lavarse.\n\nEn la naturaleza, esta reacción probablemente sirve para desanimar a los animales que intentan morderla. A nosotros, en cambio, no nos detiene: seguimos cortando cebolla en casi todas las cocinas del mundo.\n\nHay algunos trucos populares para llorar menos, y varios tienen explicación. Una cebolla fría, por ejemplo, libera el gas más despacio, porque las reacciones químicas se vuelven más lentas con el frío. Un cuchillo bien afilado rompe menos células que uno sin filo, así que también ayuda un poco.\n\nAsí que la próxima vez que llores picando cebolla, no será tristeza: será química."
+    },
+    {
+      "id": "leer-035",
+      "categoria": "historia",
+      "titulo": "Letras que se podían mover",
+      "texto": "Durante siglos, cada libro tenía que copiarse a mano, letra por letra. Por eso eran escasos y muy valiosos. La idea de fabricar letras sueltas que pudieran combinarse y reutilizarse para imprimir apareció varias veces en la historia, en lugares muy distintos.\n\nHacia el año 1040, en China, un artesano llamado Bi Sheng creó tipos móviles de arcilla cocida. Más tarde, en Corea, se imprimieron libros con tipos de metal; uno de ellos, de 1377, es el libro más antiguo que se conserva impreso con ese método.\n\nEn Europa, hacia 1450, Johannes Gutenberg reunió varias ideas en un solo sistema: letras de metal fundidas en moldes, una prensa adaptada de las que se usaban para exprimir uvas y una tinta a base de aceite que se adhería bien al metal. Así se podían imprimir muchas copias iguales, rápido y con calidad.\n\nLos cambios fueron enormes. En pocas décadas se imprimieron millones de libros en Europa, y con el tiempo leer dejó de ser un privilegio de muy pocas personas. Cada página impresa, e incluso esta pantalla llena de letras, desciende en parte de aquellas piezas diminutas que se podían mover."
+    },
+    {
+      "id": "leer-036",
+      "categoria": "naturaleza",
+      "titulo": "Escuchar con los pies",
+      "texto": "Los elefantes se comunican con una gran variedad de sonidos: barritan, resoplan y, sobre todo, emiten unos retumbos graves que salen desde lo profundo de su garganta. Algunos de esos sonidos son tan bajos que los seres humanos no podemos oírlos, aunque viajan por el aire a varios kilómetros de distancia.\n\nPero eso no es todo. Esos retumbos también hacen vibrar el suelo, y otros elefantes pueden percibir esas vibraciones a través de las patas y de la trompa. Las plantas de sus pies tienen una almohadilla gruesa y muy sensible, y se ha observado que, cuando quieren «escuchar» algo lejano, a veces se quedan inmóviles, apoyan con fuerza las patas delanteras o levantan una del suelo.\n\nGracias a este sistema, los grupos pueden coordinarse aunque estén lejos unos de otros y no se vean. Las crías, las madres y el resto de la manada mantienen así un contacto constante, como una conversación que corre por debajo de la tierra.\n\nAsí que, cuando un elefante parece estar quieto sin hacer nada, puede que en realidad esté atento a una charla que nosotros nunca vamos a oír."
+    },
+    {
+      "id": "leer-037",
+      "categoria": "lenguaje",
+      "titulo": "El origen de «OK»",
+      "texto": "Pocas palabras han viajado tanto como «OK». Se entiende en casi cualquier parte del mundo, en idiomas muy distintos, y sin embargo durante mucho tiempo nadie sabía bien de dónde venía. Se propusieron decenas de teorías, algunas muy creativas.\n\nEl misterio lo resolvió, en los años sesenta, el lingüista estadounidense Allen Walker Read, después de revisar periódicos antiguos con mucha paciencia. Descubrió que «OK» apareció por primera vez en 1839, en un diario de Boston, como parte de una moda de la época: abreviar expresiones escritas con errores de ortografía a propósito, para hacer bromas.\n\n«OK» era la abreviatura de «oll korrect», una forma deliberadamente mal escrita de «all correct», que en inglés significa «todo correcto». Muchas de aquellas abreviaturas de broma desaparecieron pronto, pero esta tuvo suerte: se usó en más contextos, se hizo popular en muy poco tiempo y terminó por quedarse.\n\nHoy la usamos para aceptar un plan, para decir que estamos bien o para cerrar una conversación. Dos letras que nacieron de un chiste de periódico y que, casi dos siglos después, se siguen diciendo en todo el planeta."
+    },
+    {
+      "id": "leer-038",
+      "categoria": "curiosidades",
+      "titulo": "Un dibujo que nadie más tiene",
+      "texto": "Las yemas de tus dedos tienen un dibujo de líneas que no se repite en ninguna otra persona. Ni siquiera los gemelos idénticos, que comparten casi todo su material genético, tienen las mismas huellas dactilares.\n\nEsos dibujos se forman antes de nacer, durante los primeros meses de desarrollo. Influyen los genes, pero también pequeñas diferencias en la presión, la posición y el crecimiento de cada dedo. Por eso cada huella es única, incluso entre los diez dedos de una misma persona.\n\nAunque a simple vista parezcan todas iguales, se pueden agrupar en tres formas básicas: arcos, que suben y bajan como una ola; presillas, que dan una vuelta y regresan por donde vinieron; y verticilos, que forman círculos o espirales. Las presillas son las más comunes.\n\nOtro dato curioso: los koalas también tienen huellas dactilares, y se parecen tanto a las humanas que incluso con un microscopio cuesta distinguirlas.\n\nTodavía se discute para qué sirven exactamente. Una de las ideas es que ayudan a percibir mejor las texturas al tocar las cosas. Míralas un momento: llevas contigo un dibujo que nadie más tiene."
+    },
+    {
+      "id": "leer-039",
+      "categoria": "relato",
+      "titulo": "La nota dentro del libro",
+      "texto": "Sofía compró el libro usado en una venta de garaje, por unas pocas monedas. Era una novela de aventuras con la tapa descolorida y las esquinas dobladas. Al abrirlo, se cayó un papel doblado en cuatro.\n\nEra una nota escrita a mano, con letra redonda y cuidadosa: «Si encontraste esto, el libro ya es tuyo. Te cuento un secreto: los primeros capítulos son lentos, pero no lo dejes. En el capítulo siete todo cambia. Te va a gustar».\n\nSofía sonrió. Leyó los primeros capítulos, que eran lentos, tal como decía la nota. Y en el capítulo siete, efectivamente, todo cambió. Se quedó leyendo hasta tarde, olvidándose de la hora.\n\nCuando terminó, se quedó un rato con el libro en las manos. Luego tomó un papel, pensó un momento y escribió: «Si encontraste esto, el libro ya es tuyo. Alguien antes que yo me pidió no rendirme en los primeros capítulos. Le hice caso y tenía razón. Ahora te toca a ti».\n\nDobló la nota en cuatro, la guardó entre las primeras páginas y, al día siguiente, dejó el libro en la banca de un parque."
+    },
+    {
+      "id": "leer-040",
+      "categoria": "ciencia",
+      "titulo": "El mito del vidrio que escurre",
+      "texto": "Durante mucho tiempo circuló una idea curiosa: que el vidrio es en realidad un líquido que fluye muy despacio. Como prueba, se mencionaban las ventanas de algunas construcciones antiguas de Europa, cuyos vidrios son más gruesos en la parte de abajo. Supuestamente, con los siglos, el vidrio había ido escurriendo hacia el suelo.\n\nEs una historia bonita, pero no es cierta. El vidrio es un sólido, aunque de un tipo especial: sus átomos no están ordenados en una estructura regular, como los de un cristal de sal o de cuarzo, sino desordenados, como si se hubieran congelado en pleno movimiento. Por eso se le llama sólido amorfo.\n\nA temperatura ambiente, el vidrio común no fluye de ninguna forma que se pueda notar, ni en cientos de años ni en muchísimo más tiempo. De hecho, hay objetos de vidrio de hace miles de años que conservan su forma perfectamente.\n\n¿Y esos vidrios más gruesos abajo? Tiene que ver con cómo se fabricaban. Las técnicas antiguas no producían láminas de grosor uniforme, y quienes las colocaban solían poner la parte más gruesa abajo, porque así quedaban más firmes. A veces, incluso, la ponían arriba o a un lado."
+    },
+    {
+      "id": "leer-041",
+      "categoria": "historia",
+      "titulo": "La piedra que hablaba tres idiomas",
+      "texto": "En 1799, durante una expedición francesa en Egipto, unos soldados que trabajaban cerca de la ciudad de Rashid, a la que los europeos llamaban Rosetta, encontraron una losa de piedra oscura cubierta de inscripciones. No sabían que habían hallado una de las llaves más importantes de la historia.\n\nLa piedra tenía un mismo texto escrito tres veces: en jeroglíficos egipcios, en una escritura egipcia más cotidiana llamada demótica y en griego antiguo. Era un decreto oficial del año 196 antes de nuestra era. Los estudiosos sabían leer griego, así que tenían, por fin, una traducción para compararla con los jeroglíficos, que nadie sabía leer desde hacía más de mil años.\n\nVarios investigadores trabajaron en el enigma, entre ellos el británico Thomas Young. Pero fue el francés Jean-François Champollion quien, en 1822, anunció que había logrado descifrar el sistema: descubrió que los jeroglíficos combinaban signos que representan sonidos con otros que representan ideas.\n\nGracias a ese hallazgo se pudieron leer miles de inscripciones antiguas. Hoy la piedra se exhibe en el Museo Británico, en Londres, y sigue siendo una de sus piezas más visitadas."
+    },
+    {
+      "id": "leer-042",
+      "categoria": "naturaleza",
+      "titulo": "El ajolote que se repara",
+      "texto": "El ajolote es un anfibio que vive de forma natural solo en los canales y lagos cercanos a la Ciudad de México, sobre todo en Xochimilco. Su nombre viene del náhuatl, y su aspecto es inconfundible: una cara que parece sonreír y unas branquias como plumas a los lados de la cabeza.\n\nTiene una particularidad: no pasa por la metamorfosis que viven otras salamandras. Llega a la edad adulta conservando rasgos de su etapa juvenil, como las branquias, y pasa toda su vida en el agua.\n\nPero lo que más interesa a los científicos es su capacidad de regeneración. Un ajolote puede volver a formar una pata completa, con huesos, músculos y nervios, e incluso reparar partes de la médula espinal, del corazón y de los ojos. Estudiar cómo lo hace es una de las líneas de investigación más fascinantes de la biología.\n\nEn su hábitat natural hoy está en peligro crítico, pero se ha vuelto un símbolo muy querido en México: aparece en ilustraciones, en muñecos y hasta en el billete de cincuenta pesos. Un animal pequeño que sonríe desde el fondo del canal."
+    },
+    {
+      "id": "leer-043",
+      "categoria": "lenguaje",
+      "titulo": "¿Cómo ladra un perro en japonés?",
+      "texto": "En español, los perros hacen «guau». En inglés, en cambio, hacen «woof», en italiano «bau bau» y en japonés «wan wan». Los perros, claro, ladran igual en todas partes. Lo que cambia es la forma en que cada idioma convierte ese sonido en palabras.\n\nEstas palabras que imitan sonidos se llaman onomatopeyas, un término que viene del griego y significa algo así como «hacer un nombre». Cada lengua tiene las suyas, y compararlas es muy divertido. El gallo, que en español canta «quiquiriquí», en inglés dice «cock-a-doodle-doo», en francés «cocorico» y en alemán «kikeriki».\n\n¿Por qué no coinciden? Porque cada idioma tiene su propio repertorio de sonidos y combinaciones posibles, y sus hablantes lo usan como un molde para imitar el mundo. También influye la costumbre: los niños aprenden cómo «suena» cada animal escuchando a los adultos.\n\nAlgunas onomatopeyas se volvieron palabras comunes: «cuchichear», «zumbar», «tictac» o «chapotear» suenan un poco a lo que describen. La próxima vez que escuches un sonido curioso, intenta escribirlo: harás lo mismo que hicieron, hace siglos, quienes inventaron el «guau»."
+    },
+    {
+      "id": "leer-044",
+      "categoria": "curiosidades",
+      "titulo": "Viajamos más rápido de lo que creemos",
+      "texto": "Ahora mismo, aunque sientas calma, te estás moviendo a una velocidad enorme. La Tierra gira sobre sí misma una vez al día, y en el ecuador eso equivale a unos 1670 kilómetros por hora. En Guatemala, que está un poco al norte del ecuador, la velocidad es algo menor, pero sigue siendo de más de 1600 kilómetros por hora.\n\nAdemás, la Tierra da la vuelta al Sol, y en ese viaje avanza a unos 107 000 kilómetros por hora. Y el Sol, con todos sus planetas, también se desplaza alrededor del centro de nuestra galaxia, todavía más rápido.\n\n¿Por qué no lo sentimos? Porque el cuerpo no percibe la velocidad en sí, sino los cambios de velocidad: los arranques, los frenazos y las curvas. Es lo mismo que pasa en un avión que vuela estable: puedes caminar por el pasillo o servirte un vaso de agua sin notar que avanzas a cientos de kilómetros por hora. Todo lo que te rodea, incluido el aire, se mueve contigo.\n\nAsí que, mientras lees estas líneas, ya recorriste decenas de kilómetros sin dar un solo paso. Nada mal para un rato de descanso."
+    },
+    {
+      "id": "leer-045",
+      "categoria": "relato",
+      "titulo": "La canción de la esquina",
+      "texto": "En la esquina del mercado tocaba un señor con una guitarra vieja y un sombrero en el suelo. Siempre empezaba el día con la misma canción, una melodía sencilla de pocas notas que nadie sabía cómo se llamaba.\n\nLupita pasaba por ahí todas las mañanas camino a la escuela, de la mano de su papá. Nunca se detenían mucho, pero ella volteaba a verlo hasta que doblaban la esquina. Un día, en el camino, empezó a silbar la melodía. Le salió torcida, con notas de más y de menos, pero se reconocía.\n\nA la mañana siguiente, cuando pasaron frente a la esquina, el músico la miró, sonrió y tocó la canción más despacio, como si se la estuviera enseñando. Lupita silbó detrás de él. Al otro día, igual. Y al otro.\n\nAsí pasó un mes. Para entonces, Lupita la silbaba completa y sin errores, y a veces el músico dejaba de tocar a propósito para escucharla terminar.\n\nNunca supieron sus nombres. Pero años después, cuando Lupita pasaba sola por el mercado, se descubrió silbando esa misma melodía. Y le pareció que, en algún lugar, una guitarra vieja le seguía el ritmo."
+    },
+    {
+      "id": "leer-046",
+      "categoria": "ciencia",
+      "titulo": "Contar los segundos del trueno",
+      "texto": "Un rayo y su trueno ocurren al mismo tiempo, pero casi nunca los percibimos juntos. Primero vemos el destello y, unos segundos después, escuchamos el estruendo. La razón es la diferencia de velocidad entre la luz y el sonido.\n\nLa luz viaja tan rápido que, a estas distancias, llega prácticamente al instante. El sonido, en cambio, avanza por el aire a unos 340 metros por segundo, es decir, tarda unos tres segundos en recorrer un kilómetro. Por eso, si cuentas los segundos entre el relámpago y el trueno y los divides entre tres, tendrás una idea aproximada de a cuántos kilómetros cayó el rayo.\n\n¿Y qué es el trueno? Cuando un rayo atraviesa el aire, lo calienta en una fracción de segundo a temperaturas altísimas, varias veces más que la superficie del Sol. El aire se expande de golpe, casi como una explosión, y esa onda es la que escuchamos.\n\nCerca del rayo, el trueno suena como un golpe seco. Lejos, se oye como un retumbo largo, porque el sonido llega desde distintos puntos del rayo, que puede medir varios kilómetros, y además rebota en montañas y edificios."
+    },
+    {
+      "id": "leer-047",
+      "categoria": "historia",
+      "titulo": "Las pelotas que asombraron a Europa",
+      "texto": "Hace unos tres mil quinientos años, los pueblos de Mesoamérica ya sabían fabricar hule, mucho antes que en Europa. Lo hacían con una receta ingeniosa: mezclaban el látex blanco del árbol del hule con el jugo de una enredadera de la familia de las campanillas. Esa mezcla transformaba el látex pegajoso en un material firme y elástico.\n\nUna investigación moderna encontró que variaban las proporciones según lo que querían fabricar: una mezcla para suelas de sandalias más resistentes, otra para pelotas que rebotaran más.\n\nEsas pelotas eran macizas y pesadas, y se usaban en el juego de pelota, que se practicó durante siglos desde lo que hoy es México hasta Centroamérica. Los jugadores golpeaban la pelota sobre todo con la cadera. Todavía pueden verse canchas antiguas en varios sitios arqueológicos de Guatemala.\n\nCuando los europeos llegaron en el siglo XVI, quedaron asombrados: nunca habían visto un objeto que saltara así. En Europa, el hule no se trabajó a gran escala hasta el siglo XIX. Pero en estas tierras, desde hacía milenios, la gente ya jugaba con pelotas que rebotaban."
+    },
+    {
+      "id": "leer-048",
+      "categoria": "naturaleza",
+      "titulo": "El viaje de la mariposa monarca",
+      "texto": "Cada otoño, millones de mariposas monarca salen del sur de Canadá y del norte de Estados Unidos y vuelan hacia el sur. Algunas recorren más de cuatro mil kilómetros hasta llegar a unos bosques de montaña en el centro de México, donde pasan el invierno apiñadas sobre los árboles, tan juntas que las ramas se doblan con su peso.\n\nLo sorprendente es que ninguna de ellas ha hecho ese viaje antes. La mayoría de las monarcas vive apenas unas semanas, pero la generación que migra es especial: puede vivir hasta ocho meses. Esas mariposas viajan al sur, pasan el invierno y, en primavera, empiezan el regreso hacia el norte.\n\nEse regreso no lo completa una sola mariposa. Se hace por relevos: varias generaciones sucesivas avanzan hacia el norte, cada una un tramo, hasta que al final del verano nace otra vez una generación viajera que retomará el camino hacia México.\n\n¿Cómo encuentran el camino sin haberlo recorrido nunca? Se orientan con el Sol, ajustándolo con una especie de reloj interno, y también parecen usar el campo magnético de la Tierra. Un mapa que no aprendieron de nadie."
+    },
+    {
+      "id": "leer-049",
+      "categoria": "lenguaje",
+      "titulo": "La siesta y la hora sexta",
+      "texto": "La palabra «siesta» tiene una historia que empieza en la antigua Roma. Los romanos dividían la parte del día con luz en doce horas, contadas desde el amanecer. La hora sexta, en latín «sexta hora», caía cerca del mediodía, cuando el sol estaba más alto y hacía más calor.\n\nCon el tiempo, de «sexta» salió «siesta», y la palabra pasó de nombrar un momento del día a nombrar lo que muchas personas hacían en ese momento: descansar un rato después de comer. Hoy «siesta» es una de las palabras del español que otros idiomas adoptaron tal cual; en inglés, por ejemplo, se usa sin traducirla.\n\nLas horas romanas, por cierto, no duraban siempre lo mismo. Como cada día tenía doce horas de luz sin importar la estación, en verano las horas eran más largas que en invierno.\n\nOtras palabras del tiempo también tienen su historia. «Semana» viene del latín «septimana», relacionada con el número siete. Y los nombres de los días de lunes a viernes vienen de los astros que se observaban en el cielo: la Luna, Marte, Mercurio, Júpiter y Venus. Cada vez que dices «martes», nombras un planeta."
+    },
+    {
+      "id": "leer-050",
+      "categoria": "curiosidades",
+      "titulo": "Por qué revientan las palomitas",
+      "texto": "Un grano de maíz para palomitas parece una piedrita dura, pero adentro guarda un secreto: una pequeña cantidad de agua, encerrada en un almidón muy compacto y rodeada por una cáscara resistente.\n\nCuando el grano se calienta, esa agua se convierte en vapor. Como la cáscara no la deja escapar, la presión adentro crece y crece. Al llegar a unos 180 grados, la cáscara ya no aguanta y revienta de golpe. En ese instante, el almidón se infla, se expande y se enfría en forma de espuma blanca y crujiente. Todo ocurre en una fracción de segundo.\n\nLos granos que se quedan sin reventar suelen tener la cáscara dañada, por donde el vapor se escapó poco a poco, o tenían muy poca agua desde el principio.\n\nLas palomitas son mucho más antiguas de lo que parece. El maíz se domesticó en lo que hoy es México hace unos nueve mil años, y en Perú se encontraron restos de maíz reventado de hace más de seis mil años. Mucho antes del cine, alguien ya había descubierto que acercar un grano al fuego podía convertirlo en una pequeña nube."
+    },
+    {
+      "id": "leer-051",
+      "categoria": "relato",
+      "titulo": "La bicicleta azul",
+      "texto": "—No me sueltes —dijo Valeria, agarrada al manubrio de su bicicleta azul.\n—No te suelto —respondió su papá, con una mano en el asiento.\n\nDieron una vuelta a la cuadra así, despacio, con la bicicleta tambaleándose. Luego otra. Valeria pedaleaba con los dientes apretados y la mirada fija en el suelo. Cada tanto repetía:\n—¿Me tienes?\n—Te tengo.\n\nA la tercera vuelta, algo cambió. La bicicleta dejó de tambalearse. Valeria levantó la vista, vio las casas pasar, sintió el aire en la cara y, sin pensarlo, empezó a pedalear más rápido. Hasta se animó a tocar el timbre.\n—¡Mira, papá! ¡Ya casi puedo sola!\n\nNadie le respondió desde atrás. Frenó con cuidado, apoyó un pie en el suelo y volteó. Su papá estaba en la esquina, muy lejos, con las manos en los bolsillos y una sonrisa enorme.\n—¿Desde cuándo me soltaste?\n—Desde la mitad de la cuadra.\n\nValeria se quedó pensando un momento. Luego dio media vuelta, se acomodó en el asiento y, sin decir nada más, siguió pedaleando sola."
+    },
+    {
+      "id": "leer-052",
+      "categoria": "ciencia",
+      "titulo": "Nacemos con más huesos",
+      "texto": "Una persona adulta tiene, por lo general, 206 huesos. Un bebé, en cambio, nace con cerca de trescientas piezas entre huesos y cartílagos que todavía no se han unido. A medida que crece, muchas de esas piezas se van fusionando. El cráneo, por ejemplo, empieza como varias placas separadas por zonas blandas, que permiten que la cabeza se adapte al nacer y que el cerebro tenga espacio para crecer.\n\nMás de la mitad de los huesos del cuerpo están en las manos y los pies: entre ellos suman más de cien. Por eso pueden hacer movimientos tan finos y precisos.\n\nEl hueso más largo es el fémur, en el muslo. El más pequeño es el estribo, que está dentro del oído y mide apenas unos tres milímetros. Junto con otros dos huesecillos, transmite las vibraciones del sonido hacia el oído interno.\n\nAunque parezcan piezas firmes e inmóviles, los huesos son tejido vivo. Todo el tiempo se desgastan y se reconstruyen por dentro, tanto que, a lo largo de unos diez años, el esqueleto se renueva casi por completo. En cierto modo, llevas dentro un esqueleto bastante nuevo."
+    },
+    {
+      "id": "leer-053",
+      "categoria": "historia",
+      "titulo": "Por qué una hora tiene sesenta minutos",
+      "texto": "Contamos casi todo de diez en diez, pero el tiempo no: una hora tiene sesenta minutos y un minuto, sesenta segundos. Esta costumbre viene de muy lejos, de la antigua Mesopotamia, donde los sumerios y después los babilonios usaban un sistema de numeración basado en el sesenta.\n\n¿Por qué sesenta? Una explicación posible es que es un número muy fácil de repartir: se puede dividir exactamente entre 2, 3, 4, 5, 6, 10, 12, 15, 20 y 30. Para el comercio y la astronomía, eso era muy práctico.\n\nLos egipcios, por su parte, dividieron el día y la noche en doce partes cada uno, y de ahí vienen nuestras 24 horas. Más tarde, los astrónomos griegos usaron el sistema babilónico para dividir los grados del círculo en partes más pequeñas. En latín, esas partes se llamaron «pars minuta prima», la primera parte pequeña, y «pars minuta secunda», la segunda. De ahí salieron las palabras minuto y segundo.\n\nHubo intentos de cambiarlo. En la Francia de 1793 se propuso un día de diez horas, cada una de cien minutos. Duró poco: la gente siguió mirando sus relojes de siempre."
+    },
+    {
+      "id": "leer-054",
+      "categoria": "naturaleza",
+      "titulo": "Los girasoles y el Sol",
+      "texto": "Se suele decir que los girasoles siguen al Sol todo el día, y es verdad, pero solo mientras son jóvenes. Las plantas que todavía están creciendo miran hacia el este por la mañana, van girando hacia el oeste a lo largo del día y, durante la noche, vuelven a orientarse hacia el este para esperar el amanecer.\n\nLo logran porque un lado del tallo crece más rápido que el otro: de día crece más el lado que da al este, y de noche, el que da al oeste. Este vaivén está coordinado por su reloj interno, que funciona de forma parecida al nuestro.\n\nCuando la planta madura y florece, deja de moverse y se queda mirando hacia el este. Un estudio de 2016 encontró una ventaja: las flores que miran al este se calientan más rápido con el sol de la mañana, y las flores tibias reciben más visitas de abejas y otros polinizadores.\n\nLo que llamamos «la flor» del girasol son en realidad cientos o miles de florecitas diminutas agrupadas. Sus semillas forman espirales que, al contarlas, suelen coincidir con números de una serie famosa: 21, 34, 55, 89. La misma serie aparece en las piñas de los pinos."
+    },
+    {
+      "id": "leer-055",
+      "categoria": "relato",
+      "titulo": "El mapa de las cosas pequeñas",
+      "texto": "Cuando la maestra pidió dibujar un mapa del barrio, todos llevaron calles, números y el nombre de la tienda de la esquina. Andrés llevó otra cosa.\n\nEn su mapa no había nombres de calles. Había, por ejemplo, un círculo con la leyenda «aquí huele a pan a las seis». Una flecha que decía «el perro café que mueve la cola pero no ladra». Una estrella pequeña: «la banca donde da el sol en la tarde». Un rectángulo azul: «el portón que rechina como un violín».\n\nLa maestra lo miró largo rato.\n—Andrés, con este mapa no se puede llegar a ningún lado —le dijo, pero sonriendo.\n—Sí se puede —respondió él—. Se puede llegar a las cosas bonitas.\n\nElla se quedó con el mapa en la mano más tiempo del necesario. Esa tarde, de regreso a casa, tomó una calle distinta a la de siempre. Buscó la banca con sol y se sentó un momento. Luego pasó frente a un portón viejo, que rechinó al abrirse, y no pudo evitar reírse sola.\n\nAl día siguiente, el mapa de Andrés estaba pegado en la pared del salón, justo al lado del pizarrón."
+    },
+    {
+      "id": "leer-056",
+      "categoria": "relato",
+      "titulo": "La biblioteca del bus",
+      "texto": "Doña Elena manejaba la misma ruta de bus desde hacía quince años. Un día, al terminar su turno, encontró un libro olvidado en un asiento. Nadie lo reclamó, así que lo dejó en una cajita de cartón junto a la puerta, con un papel que decía: «Libro para leer en el viaje. Si te lo llevas, trae otro».\n\nDurante semanas, nadie tocó la caja. Luego, una mañana, el libro ya no estaba, y en su lugar había dos: uno de recetas y una novela con la tapa rota. Una semana después eran cinco. Más tarde, diez.\n\nLos pasajeros empezaron a subir mirando primero la caja y después buscando asiento. Un estudiante dejó los libros de cuentos de su infancia. Un señor mayor llevó revistas de pájaros. Una muchacha dejó una nota dentro de una novela: «El final es precioso, no te lo pierdas».\n\nLa cajita de cartón se deshizo con el uso, y alguien la cambió por una de madera, pintada de verde, sin decir quién había sido.\n\nDoña Elena nunca supo cuántos libros pasaron por su bus. Pero aprendió a reconocer un sonido nuevo en su ruta: el de las páginas que pasan entre parada y parada."
+    },
+    {
+      "id": "leer-057",
+      "categoria": "relato",
+      "titulo": "Bajo el toldo",
+      "texto": "La lluvia empezó de golpe, como empiezan las lluvias de la tarde, y tres desconocidos terminaron apretados bajo el toldo de una ferretería cerrada: una señora con bolsas del mercado, un muchacho con uniforme de repartidor y un señor con un periódico doblado sobre la cabeza.\n\nDurante un rato, nadie dijo nada. Solo miraban el agua caer en cortinas y correr por la calle como un río pequeño.\n—Esto no para en media hora —dijo por fin el señor.\n—Una hora —corrigió la señora—. Mírele el color al cielo.\nEl muchacho se rió.\n—Mi abuela también sabía eso. Nunca se equivocaba.\n\nY así empezó la conversación. Hablaron de abuelas que adivinaban el clima, de la vez que la calle se inundó hasta las rodillas y de dónde venden los mejores tamales del barrio. La señora sacó unas mandarinas de sus bolsas y las repartió sin preguntar.\n\nCuando la lluvia por fin se calmó, cada uno salió hacia su lado.\n—Que les vaya bien —se dijeron.\n\nNo volvieron a coincidir. Pero ninguno de los tres olvidó aquel rato, ni el olor de las mandarinas mezclado con el de la lluvia."
+    },
+    {
+      "id": "leer-058",
+      "categoria": "relato",
+      "titulo": "La gata de las cuatro ventanas",
+      "texto": "Nadie sabía de quién era la gata gris. En el edificio, cada vecino creía que era de otro, y ella, con toda tranquilidad, tenía una rutina que respetaba como un reloj.\n\nPor la mañana dormía en la ventana del primer piso, donde una señora regaba geranios. A mediodía subía a la ventana de un estudiante, que la dejaba echarse sobre sus apuntes mientras él leía en voz alta. Por la tarde visitaba a un matrimonio mayor que escuchaba la radio, y se quedaba quieta sobre el marco, como si también siguiera las noticias. De noche, desaparecía.\n\nUn día, la gata no apareció en ninguna ventana. Los vecinos, que casi nunca hablaban entre ellos, empezaron a preguntarse unos a otros. Así se enteraron de que todos la conocían, y de que cada uno le había puesto un nombre distinto: Nube, Señora, Filósofa, Ceniza.\n\nLa encontraron dos días después, en el patio, cuidando a tres gatitos grises. Desde entonces, los vecinos se turnan para llevarles comida. Y cuando se cruzan en la escalera, ya no solo se dicen buenos días. También se preguntan: «¿Cómo amaneció la gata?»."
+    },
+    {
+      "id": "leer-059",
+      "categoria": "relato",
+      "titulo": "Ochenta y siete escalones",
+      "texto": "Para llegar a la casa de su abuela, Camila tenía que subir una escalera larga, de piedra, que trepaba por la ladera del cerro. Cuando era pequeña, contaba los escalones en voz alta, uno por uno, de la mano de su mamá: eran ochenta y siete. Arriba siempre la esperaba un vaso de agua de jamaica.\n\nCon los años, Camila empezó a subirlos de dos en dos, y ya no los contaba. Después empezó a subirlos sola, con audífonos, pensando en otras cosas. Llegaba arriba casi sin darse cuenta de que había subido.\n\nUn día, sin saber por qué, se detuvo al pie de la escalera y decidió contarlos otra vez, despacio, como antes. Uno, dos, tres. En el escalón doce había una grieta con forma de pez que no recordaba. En el treinta, una planta pequeña había crecido entre las piedras. Desde el cincuenta se veía todo el valle, y se quedó un rato mirándolo.\n\nLlegó arriba más tarde que nunca. Su abuela la esperaba en la puerta, con el vaso de agua de jamaica en la mano.\n—¿Por qué tardaste tanto?\n—Estaba contando —dijo Camila—. Siguen siendo ochenta y siete."
+    },
+    {
+      "id": "leer-060",
+      "categoria": "relato",
+      "titulo": "La guardiana del faro",
+      "texto": "Durante cuarenta años, Rosa fue la guardiana del faro de una pequeña isla. Su trabajo era sencillo y enorme a la vez: cada tarde encendía la luz y cada mañana la apagaba. Entre una cosa y otra, anotaba en un cuaderno el estado del mar, el color del cielo y los barcos que pasaban.\n\nNunca conoció a ninguno de los marineros que guiaba. Solo veía sus luces a lo lejos, pequeñas y temblorosas, que cambiaban de rumbo al ver el haz del faro y seguían su camino tranquilas.\n\nCuando llegó el día de su retiro, el faro ya funcionaba solo, con una máquina automática. Rosa guardó su último cuaderno, cerró la puerta y se mudó a un pueblo de la costa, frente a la isla.\n\nLa primera noche en su casa nueva, no podía dormir. Se asomó a la ventana y buscó el mar a lo lejos. Allí estaba el faro, girando, fiel como siempre. Y en el horizonte, un barco pequeño cambió de rumbo con suavidad, siguiendo la luz.\n\nRosa sonrió. Durante cuarenta años había cuidado esa luz. Ahora, por primera vez, podía mirarla desde afuera, como la veían los demás. Esa noche durmió profundamente."
+    }
+  ]
+}

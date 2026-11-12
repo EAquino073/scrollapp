@@ -25,6 +25,7 @@ export * from './GenerarMensajeFriccion';
 export * from './generarCelebracion';
 export * from './generarCodigoParticipante';
 
+
 // Check-in nocturno y registro automático (fase 4)
 export * from './RegistrarUsoAutomatico';
 export * from './CalcularCheckInNocturno';
@@ -41,3 +42,6 @@ export * from './CerrarSemanasPendientes';
 
 // Encuesta final (fase 4)
 export * from './GuardarRespuestaEncuesta';
+
+// Contenido guiado y minijuegos (fase 5)
+export * from './AsignarContenidoGuiado';

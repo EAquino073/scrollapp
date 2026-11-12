@@ -1,0 +1,456 @@
+{
+  "tipoActividad": "ESTIRAR",
+  "descripcion": "Secuencias de tres pasos para la actividad «Estirarme» (2 minutos). Cada paso trae una instrucción breve, su duración en segundos y la parte del cuerpo. Todas se pueden hacer sentado o de pie, en poco espacio. Los pasos de cada secuencia suman 120 segundos.",
+  "elementos": [
+    {
+      "id": "estirar-001",
+      "titulo": "Cuello sin prisa",
+      "pasos": [
+        { "instruccion": "Inclina la cabeza hacia el hombro derecho, sin subir el hombro. Quédate ahí respirando.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Ahora hacia el hombro izquierdo, con la misma calma.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Sube los hombros hacia las orejas y déjalos caer despacio. Repite a tu ritmo.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-002",
+      "titulo": "Manos y muñecas",
+      "pasos": [
+        { "instruccion": "Abre las manos estirando bien los dedos y luego ciérralas suavemente. Repite varias veces.", "segundos": 30, "parteCuerpo": "manos" },
+        { "instruccion": "Dibuja círculos lentos con las muñecas, primero hacia un lado y luego hacia el otro.", "segundos": 45, "parteCuerpo": "muñecas" },
+        { "instruccion": "Estira un brazo al frente con la palma hacia arriba y, con la otra mano, lleva los dedos suavemente hacia abajo. A la mitad, cambia de brazo.", "segundos": 45, "parteCuerpo": "brazos" }
+      ]
+    },
+    {
+      "id": "estirar-003",
+      "titulo": "Espalda despierta",
+      "pasos": [
+        { "instruccion": "Crece un poco hacia arriba, como si un hilo tirara suavemente de tu cabeza.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Gira el tronco despacio hacia un lado, solo hasta donde sea cómodo, y vuelve al centro. Luego hacia el otro.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Lleva los hombros hacia atrás y abre el pecho. Deja entrar el aire un par de veces.", "segundos": 40, "parteCuerpo": "pecho" }
+      ]
+    },
+    {
+      "id": "estirar-004",
+      "titulo": "Hombros que se sueltan",
+      "pasos": [
+        { "instruccion": "Haz círculos lentos con los hombros hacia atrás, amplios y sin prisa.", "segundos": 40, "parteCuerpo": "hombros" },
+        { "instruccion": "Ahora los mismos círculos, pero hacia adelante.", "segundos": 40, "parteCuerpo": "hombros" },
+        { "instruccion": "Deja los brazos sueltos a los lados y sacude las manos con suavidad, como si se estuvieran secando.", "segundos": 40, "parteCuerpo": "brazos" }
+      ]
+    },
+    {
+      "id": "estirar-005",
+      "titulo": "Mirar por encima del hombro",
+      "pasos": [
+        { "instruccion": "Gira la cabeza despacio hacia la derecha, como si miraras por encima del hombro. Quédate un momento.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Vuelve al centro y gira hacia la izquierda con la misma calma.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Baja la barbilla hacia el pecho y deja que el peso de la cabeza estire la nuca.", "segundos": 40, "parteCuerpo": "cuello" }
+      ]
+    },
+    {
+      "id": "estirar-006",
+      "titulo": "Costados largos",
+      "pasos": [
+        { "instruccion": "Sube el brazo derecho por encima de la cabeza e inclínate un poco hacia la izquierda.", "segundos": 45, "parteCuerpo": "costados" },
+        { "instruccion": "Cambia: brazo izquierdo arriba e inclínate un poco hacia la derecha.", "segundos": 45, "parteCuerpo": "costados" },
+        { "instruccion": "Baja los brazos y deja caer los hombros lejos de las orejas.", "segundos": 30, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-007",
+      "titulo": "Dedos atentos",
+      "pasos": [
+        { "instruccion": "Toca la punta de cada dedo con el pulgar, uno por uno, de ida y de vuelta.", "segundos": 40, "parteCuerpo": "manos" },
+        { "instruccion": "Entrelaza los dedos y estira los brazos al frente, con las palmas hacia afuera.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Suelta las manos y gíralas despacio desde las muñecas, en un sentido y en el otro.", "segundos": 40, "parteCuerpo": "muñecas" }
+      ]
+    },
+    {
+      "id": "estirar-008",
+      "titulo": "Pecho abierto",
+      "pasos": [
+        { "instruccion": "Entrelaza las manos detrás de la espalda y lleva los hombros suavemente hacia atrás.", "segundos": 40, "parteCuerpo": "pecho" },
+        { "instruccion": "Sin soltar las manos, levanta un poco la mirada y deja que el aire entre sin esfuerzo.", "segundos": 40, "parteCuerpo": "pecho" },
+        { "instruccion": "Suelta las manos y deja que los hombros vuelvan a su lugar, despacio.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-009",
+      "titulo": "Tobillos en círculo",
+      "pasos": [
+        { "instruccion": "Apoya solo la punta del pie derecho, o levántalo un poco si estás en un asiento, y dibuja círculos lentos con el tobillo.", "segundos": 40, "parteCuerpo": "tobillos" },
+        { "instruccion": "Ahora con el tobillo izquierdo, en un sentido y en el otro.", "segundos": 40, "parteCuerpo": "tobillos" },
+        { "instruccion": "Apoya bien los dos pies y mueve los dedos como si tocaran un piano.", "segundos": 40, "parteCuerpo": "pies" }
+      ]
+    },
+    {
+      "id": "estirar-010",
+      "titulo": "Cara tranquila",
+      "pasos": [
+        { "instruccion": "Aprieta suavemente los ojos y toda la cara por un segundo, y luego suelta. Repite unas cuantas veces.", "segundos": 40, "parteCuerpo": "cara" },
+        { "instruccion": "Abre la boca despacio, como en un bostezo, y ciérrala con calma.", "segundos": 40, "parteCuerpo": "cara" },
+        { "instruccion": "Relaja la frente y el espacio entre las cejas. Deja la mandíbula floja, con los dientes un poco separados.", "segundos": 40, "parteCuerpo": "cara" }
+      ]
+    },
+    {
+      "id": "estirar-011",
+      "titulo": "Espalda redonda, espalda larga",
+      "pasos": [
+        { "instruccion": "Redondea la espalda, llevando el ombligo hacia adentro y la barbilla hacia el pecho.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Ahora al revés: saca un poco el pecho y lleva los hombros hacia atrás.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Alterna despacio entre las dos posiciones, siguiendo tu respiración.", "segundos": 40, "parteCuerpo": "espalda" }
+      ]
+    },
+    {
+      "id": "estirar-012",
+      "titulo": "Brazo cruzado",
+      "pasos": [
+        { "instruccion": "Cruza el brazo derecho frente al pecho y sostenlo con la otra mano a la altura del codo.", "segundos": 45, "parteCuerpo": "hombros" },
+        { "instruccion": "Cambia de brazo y quédate el mismo tiempo.", "segundos": 45, "parteCuerpo": "hombros" },
+        { "instruccion": "Suelta los brazos y abre y cierra las manos varias veces.", "segundos": 30, "parteCuerpo": "manos" }
+      ]
+    },
+    {
+      "id": "estirar-013",
+      "titulo": "Codo al cielo",
+      "pasos": [
+        { "instruccion": "Lleva la mano derecha detrás de la cabeza, hacia la espalda, y con la otra mano empuja suavemente el codo.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Cambia de brazo, con la misma suavidad.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Baja los brazos y gira los hombros hacia atrás un par de veces.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-014",
+      "titulo": "Piernas despiertas",
+      "pasos": [
+        { "instruccion": "Si estás en un asiento, estira una pierna al frente; si estás de pie, adelanta un talón. Lleva la punta del pie hacia ti.", "segundos": 40, "parteCuerpo": "piernas" },
+        { "instruccion": "Cambia de pierna y quédate el mismo tiempo.", "segundos": 40, "parteCuerpo": "piernas" },
+        { "instruccion": "Apoya los dos pies y presiona el suelo con toda la planta, como si echaras raíces.", "segundos": 40, "parteCuerpo": "pies" }
+      ]
+    },
+    {
+      "id": "estirar-015",
+      "titulo": "Mirada que viaja",
+      "pasos": [
+        { "instruccion": "Sin mover la cabeza, mira despacio hacia arriba y luego hacia abajo, varias veces.", "segundos": 40, "parteCuerpo": "ojos" },
+        { "instruccion": "Ahora de un lado a otro, lento, como si siguieras algo que pasa.", "segundos": 40, "parteCuerpo": "ojos" },
+        { "instruccion": "Cierra los ojos o baja la mirada, y deja que descansen.", "segundos": 40, "parteCuerpo": "ojos" }
+      ]
+    },
+    {
+      "id": "estirar-016",
+      "titulo": "Cabeza que pesa",
+      "pasos": [
+        { "instruccion": "Inclina la cabeza hacia la derecha y apoya la mano derecha encima, sin empujar: solo deja que pese.", "segundos": 45, "parteCuerpo": "cuello" },
+        { "instruccion": "Vuelve al centro y repite hacia la izquierda.", "segundos": 45, "parteCuerpo": "cuello" },
+        { "instruccion": "Sube y baja los hombros tres o cuatro veces, sin prisa.", "segundos": 30, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-017",
+      "titulo": "Palmas al frente",
+      "pasos": [
+        { "instruccion": "Estira un brazo al frente con la palma hacia afuera, como diciendo «alto», y lleva los dedos suavemente hacia ti con la otra mano.", "segundos": 40, "parteCuerpo": "muñecas" },
+        { "instruccion": "Cambia de mano.", "segundos": 40, "parteCuerpo": "muñecas" },
+        { "instruccion": "Junta las palmas frente al pecho y bájalas despacio sin separarlas, hasta sentir el estiramiento en las muñecas.", "segundos": 40, "parteCuerpo": "manos" }
+      ]
+    },
+    {
+      "id": "estirar-018",
+      "titulo": "Giro suave",
+      "pasos": [
+        { "instruccion": "Gira el tronco hacia la derecha y apoya las manos donde te resulte cómodo.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Vuelve al centro y gira hacia la izquierda.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Regresa al centro, con la espalda alta, y respira un par de veces.", "segundos": 40, "parteCuerpo": "espalda" }
+      ]
+    },
+    {
+      "id": "estirar-019",
+      "titulo": "Un lápiz en la espalda",
+      "pasos": [
+        { "instruccion": "Junta los omóplatos como si quisieras sostener un lápiz entre ellos, y suelta.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Repite despacio varias veces, sin subir los hombros.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Termina moviendo la cabeza en un «sí» lento y pequeño.", "segundos": 40, "parteCuerpo": "cuello" }
+      ]
+    },
+    {
+      "id": "estirar-020",
+      "titulo": "El sí y el no",
+      "pasos": [
+        { "instruccion": "Mueve la cabeza en un «sí» lento, bajando y subiendo la barbilla.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Ahora en un «no» lento, de un lado a otro.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Dibuja con la barbilla medio círculo por delante, de un hombro al otro, ida y vuelta.", "segundos": 40, "parteCuerpo": "cuello" }
+      ]
+    },
+    {
+      "id": "estirar-021",
+      "titulo": "Puños y estrellas",
+      "pasos": [
+        { "instruccion": "Cierra las manos en puño, apriétalas un poco y ábrelas estirando mucho los dedos.", "segundos": 40, "parteCuerpo": "manos" },
+        { "instruccion": "Separa los dedos todo lo que puedas y vuelve a juntarlos.", "segundos": 40, "parteCuerpo": "manos" },
+        { "instruccion": "Deja las manos sueltas y sacúdelas con suavidad.", "segundos": 40, "parteCuerpo": "brazos" }
+      ]
+    },
+    {
+      "id": "estirar-022",
+      "titulo": "Crecer hacia arriba",
+      "pasos": [
+        { "instruccion": "Entrelaza los dedos y sube los brazos por encima de la cabeza, con las palmas hacia arriba.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Desde ahí, inclínate un poco hacia un lado y luego hacia el otro.", "segundos": 40, "parteCuerpo": "costados" },
+        { "instruccion": "Baja los brazos despacio, abriéndolos hacia los lados.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-023",
+      "titulo": "Cadera en movimiento",
+      "pasos": [
+        { "instruccion": "De pie, dibuja círculos pequeños con la cadera; en un asiento, balancéate suavemente de un lado a otro sobre el asiento.", "segundos": 40, "parteCuerpo": "cadera" },
+        { "instruccion": "Cambia el sentido del movimiento.", "segundos": 40, "parteCuerpo": "cadera" },
+        { "instruccion": "Pasa el peso de un lado al otro, despacio, varias veces, hasta detenerte al centro.", "segundos": 40, "parteCuerpo": "piernas" }
+      ]
+    },
+    {
+      "id": "estirar-024",
+      "titulo": "Escalón invisible",
+      "pasos": [
+        { "instruccion": "Levanta los talones despacio y bájalos, como si subieras un escalón invisible.", "segundos": 40, "parteCuerpo": "pies" },
+        { "instruccion": "Ahora al revés: apoya los talones y levanta las puntas de los pies.", "segundos": 40, "parteCuerpo": "tobillos" },
+        { "instruccion": "Alterna a un ritmo tranquilo: talones, puntas, talones, puntas.", "segundos": 40, "parteCuerpo": "pies" }
+      ]
+    },
+    {
+      "id": "estirar-025",
+      "titulo": "Alas pequeñas",
+      "pasos": [
+        { "instruccion": "Si tienes espacio, abre los brazos hacia los lados a la altura de los hombros y haz círculos pequeños.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Cambia el sentido de los círculos.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Baja los brazos y deja que descansen.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-026",
+      "titulo": "Nuca larga",
+      "pasos": [
+        { "instruccion": "Lleva la barbilla un poco hacia atrás, sin inclinar la cabeza, como si quisieras hacer papada.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Suelta y repite despacio varias veces.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Termina con los hombros: súbelos, llévalos hacia atrás y bájalos.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-027",
+      "titulo": "Masaje de palmas",
+      "pasos": [
+        { "instruccion": "Con el pulgar de una mano, masajea la palma de la otra haciendo círculos pequeños.", "segundos": 40, "parteCuerpo": "manos" },
+        { "instruccion": "Cambia de mano.", "segundos": 40, "parteCuerpo": "manos" },
+        { "instruccion": "Junta los dedos de ambas manos por las yemas y presiona suavemente, separando las palmas.", "segundos": 40, "parteCuerpo": "muñecas" }
+      ]
+    },
+    {
+      "id": "estirar-028",
+      "titulo": "Vértebra por vértebra",
+      "pasos": [
+        { "instruccion": "Apoya las manos en los muslos e inclínate un poco hacia adelante, con la espalda larga.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Redondea despacio la espalda, dejando que la cabeza baje.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Sube poco a poco, como si acomodaras una vértebra encima de otra, hasta que la espalda quede derecha.", "segundos": 40, "parteCuerpo": "espalda" }
+      ]
+    },
+    {
+      "id": "estirar-029",
+      "titulo": "Mirar el bolsillo",
+      "pasos": [
+        { "instruccion": "Gira un poco la cabeza hacia la derecha y baja la mirada, como si buscaras algo en tu bolsillo.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Vuelve despacio y repite hacia el otro lado.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Regresa al centro y deja la cabeza equilibrada sobre los hombros.", "segundos": 40, "parteCuerpo": "cuello" }
+      ]
+    },
+    {
+      "id": "estirar-030",
+      "titulo": "Limpiaparabrisas",
+      "pasos": [
+        { "instruccion": "Levanta los pies uno y otro, alternándolos, como si marcharas muy despacio.", "segundos": 40, "parteCuerpo": "piernas" },
+        { "instruccion": "Apoya un talón y mueve la punta del pie hacia un lado y hacia el otro, como un limpiaparabrisas.", "segundos": 40, "parteCuerpo": "tobillos" },
+        { "instruccion": "Cambia de pie.", "segundos": 40, "parteCuerpo": "tobillos" }
+      ]
+    },
+    {
+      "id": "estirar-031",
+      "titulo": "Mandíbula suelta",
+      "pasos": [
+        { "instruccion": "Abre la boca despacio y muévela un poco hacia un lado y hacia el otro.", "segundos": 40, "parteCuerpo": "cara" },
+        { "instruccion": "Con las yemas de los dedos, masajea en círculos la zona donde se une la mandíbula, cerca de las orejas.", "segundos": 40, "parteCuerpo": "cara" },
+        { "instruccion": "Deja la lengua descansar detrás de los dientes de arriba y la mandíbula floja.", "segundos": 40, "parteCuerpo": "cara" }
+      ]
+    },
+    {
+      "id": "estirar-032",
+      "titulo": "Brazos de cactus",
+      "pasos": [
+        { "instruccion": "Dobla los codos a la altura de los hombros, con las manos hacia arriba, como un cactus, y llévalos un poco hacia atrás.", "segundos": 40, "parteCuerpo": "pecho" },
+        { "instruccion": "Suelta y vuelve a abrir, despacio, unas cuantas veces.", "segundos": 40, "parteCuerpo": "pecho" },
+        { "instruccion": "Baja los brazos y deja caer los hombros.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-033",
+      "titulo": "Dedo por dedo",
+      "pasos": [
+        { "instruccion": "Con una mano, lleva suavemente hacia atrás cada dedo de la otra, uno por uno.", "segundos": 40, "parteCuerpo": "manos" },
+        { "instruccion": "Cambia de mano.", "segundos": 40, "parteCuerpo": "manos" },
+        { "instruccion": "Frota las palmas entre sí hasta sentirlas tibias.", "segundos": 40, "parteCuerpo": "manos" }
+      ]
+    },
+    {
+      "id": "estirar-034",
+      "titulo": "La repisa alta",
+      "pasos": [
+        { "instruccion": "Mira hacia arriba y un poco a la derecha, como si buscaras algo en una repisa alta.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Ahora hacia arriba y un poco a la izquierda.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Vuelve al centro y baja la barbilla un momento.", "segundos": 40, "parteCuerpo": "cuello" }
+      ]
+    },
+    {
+      "id": "estirar-035",
+      "titulo": "Un abrazo propio",
+      "pasos": [
+        { "instruccion": "Cruza los brazos y lleva cada mano hacia el omóplato contrario, como en un abrazo.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Redondea un poco la espalda y siente cómo se estira entre los hombros.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Suelta el abrazo y abre los brazos despacio.", "segundos": 40, "parteCuerpo": "brazos" }
+      ]
+    },
+    {
+      "id": "estirar-036",
+      "titulo": "Pies despiertos",
+      "pasos": [
+        { "instruccion": "Mueve los dedos de los pies: estíralos, júntalos, sepáralos.", "segundos": 40, "parteCuerpo": "pies" },
+        { "instruccion": "Pasa el peso de los talones a las puntas, despacio, de ida y de vuelta.", "segundos": 40, "parteCuerpo": "pies" },
+        { "instruccion": "Apoyando solo la punta, dibuja círculos con un tobillo y luego con el otro.", "segundos": 40, "parteCuerpo": "tobillos" }
+      ]
+    },
+    {
+      "id": "estirar-037",
+      "titulo": "Planta con brisa",
+      "pasos": [
+        { "instruccion": "Balancéate muy suavemente de lado a lado, como una planta con la brisa.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Deja que los hombros acompañen el movimiento, sueltos.", "segundos": 40, "parteCuerpo": "hombros" },
+        { "instruccion": "Haz el balanceo cada vez más pequeño, hasta que el cuerpo se detenga.", "segundos": 40, "parteCuerpo": "espalda" }
+      ]
+    },
+    {
+      "id": "estirar-038",
+      "titulo": "Brazos hacia atrás",
+      "pasos": [
+        { "instruccion": "Lleva los brazos rectos hacia atrás, con las palmas mirando al cuerpo, y súbelos apenas un poco.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Mantén la posición y deja que el pecho se abra con cada respiración.", "segundos": 40, "parteCuerpo": "pecho" },
+        { "instruccion": "Suelta los brazos y deja que cuelguen.", "segundos": 40, "parteCuerpo": "brazos" }
+      ]
+    },
+    {
+      "id": "estirar-039",
+      "titulo": "Ochos en el aire",
+      "pasos": [
+        { "instruccion": "Entrelaza los dedos y dibuja un ocho en el aire moviendo las muñecas.", "segundos": 40, "parteCuerpo": "muñecas" },
+        { "instruccion": "Ahora dibuja el ocho en la otra dirección.", "segundos": 40, "parteCuerpo": "muñecas" },
+        { "instruccion": "Suelta las manos y ábrelas como una estrella.", "segundos": 40, "parteCuerpo": "manos" }
+      ]
+    },
+    {
+      "id": "estirar-040",
+      "titulo": "Dos manos, una respiración",
+      "pasos": [
+        { "instruccion": "Pon una mano en el pecho y otra en el abdomen, y respira notando cuál se mueve más.", "segundos": 40, "parteCuerpo": "pecho" },
+        { "instruccion": "Cada vez que sueltes el aire, deja caer los hombros un poco más.", "segundos": 40, "parteCuerpo": "hombros" },
+        { "instruccion": "Cada vez que tomes aire, crece un poco hacia arriba.", "segundos": 40, "parteCuerpo": "espalda" }
+      ]
+    },
+    {
+      "id": "estirar-041",
+      "titulo": "Codos en círculo",
+      "pasos": [
+        { "instruccion": "Pon las puntas de los dedos sobre los hombros y dibuja círculos amplios con los codos.", "segundos": 40, "parteCuerpo": "hombros" },
+        { "instruccion": "Cambia la dirección de los círculos.", "segundos": 40, "parteCuerpo": "hombros" },
+        { "instruccion": "Junta los codos al frente y luego ábrelos hacia los lados, despacio.", "segundos": 40, "parteCuerpo": "pecho" }
+      ]
+    },
+    {
+      "id": "estirar-042",
+      "titulo": "Colgar la cabeza",
+      "pasos": [
+        { "instruccion": "Baja la barbilla hacia el pecho y deja que la cabeza cuelgue sin hacer fuerza.", "segundos": 45, "parteCuerpo": "cuello" },
+        { "instruccion": "Desde ahí, gírala muy poco hacia un lado y hacia el otro.", "segundos": 45, "parteCuerpo": "cuello" },
+        { "instruccion": "Sube la cabeza despacio, como si fuera lo último en llegar.", "segundos": 30, "parteCuerpo": "cuello" }
+      ]
+    },
+    {
+      "id": "estirar-043",
+      "titulo": "Antebrazos",
+      "pasos": [
+        { "instruccion": "Estira un brazo al frente con la palma hacia abajo y lleva suavemente los dedos hacia abajo con la otra mano.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Cambia de brazo.", "segundos": 40, "parteCuerpo": "brazos" },
+        { "instruccion": "Gira los antebrazos para que las palmas miren hacia arriba y hacia abajo, varias veces.", "segundos": 40, "parteCuerpo": "muñecas" }
+      ]
+    },
+    {
+      "id": "estirar-044",
+      "titulo": "Rodillas amables",
+      "pasos": [
+        { "instruccion": "En un asiento, estira las piernas al frente y mueve los tobillos; de pie, dobla y estira un poco las rodillas.", "segundos": 40, "parteCuerpo": "piernas" },
+        { "instruccion": "Aprieta suavemente los muslos y suelta, varias veces.", "segundos": 40, "parteCuerpo": "piernas" },
+        { "instruccion": "Apoya bien los pies y siente cómo tu peso baja hacia el suelo.", "segundos": 40, "parteCuerpo": "pies" }
+      ]
+    },
+    {
+      "id": "estirar-045",
+      "titulo": "Cerrarse y abrirse",
+      "pasos": [
+        { "instruccion": "Lleva los hombros hacia adelante, como si te cerraras, y luego hacia atrás, abriéndote.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Repite despacio, dejando que el movimiento sea cada vez un poco más amplio.", "segundos": 40, "parteCuerpo": "espalda" },
+        { "instruccion": "Termina con los hombros relajados y quietos.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-046",
+      "titulo": "Cerca y lejos",
+      "pasos": [
+        { "instruccion": "Mira algo que esté cerca de ti y luego algo que esté lo más lejos posible.", "segundos": 40, "parteCuerpo": "ojos" },
+        { "instruccion": "Alterna entre lo cercano y lo lejano, sin prisa.", "segundos": 40, "parteCuerpo": "ojos" },
+        { "instruccion": "Parpadea suavemente varias veces y deja que los ojos descansen.", "segundos": 40, "parteCuerpo": "ojos" }
+      ]
+    },
+    {
+      "id": "estirar-047",
+      "titulo": "Sacudida suave",
+      "pasos": [
+        { "instruccion": "Sacude las manos suavemente, como si se estuvieran secando.", "segundos": 30, "parteCuerpo": "manos" },
+        { "instruccion": "Deja que el movimiento suba a los brazos y a los hombros, siempre suave.", "segundos": 45, "parteCuerpo": "brazos" },
+        { "instruccion": "Poco a poco, detén el movimiento y nota el cosquilleo que queda.", "segundos": 45, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-048",
+      "titulo": "Manos en la nuca",
+      "pasos": [
+        { "instruccion": "Entrelaza las manos detrás de la cabeza y baja la barbilla, dejando que el peso de los brazos estire la nuca.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Sin soltar las manos, abre los codos hacia los lados y levanta un poco el pecho.", "segundos": 40, "parteCuerpo": "pecho" },
+        { "instruccion": "Suelta las manos y deja caer los brazos despacio.", "segundos": 40, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-049",
+      "titulo": "Tronco alto",
+      "pasos": [
+        { "instruccion": "Apoya bien los pies y siente el contacto con el suelo.", "segundos": 30, "parteCuerpo": "pies" },
+        { "instruccion": "Imagina que la columna se alarga un poco con cada inhalación.", "segundos": 45, "parteCuerpo": "espalda" },
+        { "instruccion": "Mantén la espalda alta y deja que los hombros bajen, lejos de las orejas.", "segundos": 45, "parteCuerpo": "hombros" }
+      ]
+    },
+    {
+      "id": "estirar-050",
+      "titulo": "De arriba hacia abajo",
+      "pasos": [
+        { "instruccion": "Empieza por arriba: un «sí» lento y un «no» lento con la cabeza.", "segundos": 40, "parteCuerpo": "cuello" },
+        { "instruccion": "Sigue con los hombros: círculos hacia atrás, amplios y tranquilos.", "segundos": 40, "parteCuerpo": "hombros" },
+        { "instruccion": "Termina abriendo y cerrando las manos, y déjalas quietas donde estén cómodas.", "segundos": 40, "parteCuerpo": "manos" }
+      ]
+    }
+  ]
+}
